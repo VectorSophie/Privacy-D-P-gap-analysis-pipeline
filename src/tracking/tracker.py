@@ -24,13 +24,20 @@ class TrackerDetector:
             # Naver
             "wcs.naver.com", "wcs.naver.net", "ssl.pstatic.net",
             "naver.com/v/", "logf.naver.com",
-            # Kakao
+            # Kakao / Daum
             "t1.kakaocdn.net", "t1.daumcdn.net", "stat.tiara.kakao.com",
-            "analytics.daumkakao.com",
-            # Others
+            "analytics.daumkakao.com", "analytics.kakao.com",
+            # US SaaS analytics
             "mixpanel.com", "amplitude.com", "segment.com", "clarity.ms",
             "appsflyer.com", "adjust.com", "branch.io",
             "analytics.twitter.com", "stats.g.doubleclick.net",
+            # Korean analytics
+            "acecounter.com", "beusable.net", "channeltalk.io",
+            "ablena.com", "acryl.io", "igaworks.com",
+            # Additional global
+            "heap.io", "kissmetrics.com", "woopra.com", "pendo.io",
+            "intercom.io", "intercomcdn.com", "posthog.com",
+            "rudderstack.com", "plausible.io", "matomo.org",
         ],
         "Advertising": [
             # Google Ads
@@ -39,26 +46,39 @@ class TrackerDetector:
             "ep1.adtrafficquality.google", "adservice.google.com",
             # Naver 광고
             "nam.veta.naver.com", "naver.com/ads", "spi.maps.naver.com",
-            "target.naver.com", "ads.naver.com",
+            "target.naver.com", "ads.naver.com", "naver.com/ad",
             # Kakao 광고
             "adfit.kakao.com", "kakaotrack.com", "kakao.com/track",
-            # Meta / Others
-            "facebook.net", "connect.facebook.net", "criteo.com",
+            "pixel.kakao.com", "ka-f.kakao.com",
+            # Meta
+            "facebook.net", "connect.facebook.net",
+            # Korean ad networks
+            "criteo.com", "mobon.net", "tnk-factory.com",
+            "nasmedia.co.kr", "realclick.co.kr", "nsmesns.com",
+            "dmcmedia.co.kr", "mezzo.co.kr", "cauly.net",
+            # Global ad networks
             "ads-twitter.com", "advertising.com", "outbrain.com",
-            "taboola.com", "mobon.net", "tnk-factory.com",
+            "taboola.com", "tradedoubler.com", "awin1.com",
+            "adsrvr.org", "rubiconproject.com", "pubmatic.com",
+            "openx.net", "adnxs.com", "casalemedia.com",
+            "bidswitch.net", "lijit.com", "sovrn.com",
         ],
         "Session Replay": [
             "hotjar.com", "fullstory.com", "smartlook.com",
             "mouseflow.com", "contentsquare.net", "logrocket.com",
-            "inspectlet.com", "lucky-orange.com",
+            "inspectlet.com", "lucky-orange.com", "crazyegg.com",
+            "sessioncam.com", "clicktale.net", "glassbox.com",
         ],
         "Social": [
             "facebook.com/tr", "platform.twitter.com", "linkedin.com/px",
             "sc-static.net", "snap.licdn.com", "instagram.com",
+            "pinterest.com/ct", "tiktok.com", "analytics.tiktok.com",
+            "s.pinimg.com",
         ],
         "Fingerprinting": [
             "siftscience.com", "threatmetrix.com", "fingerprintjs.com",
-            "iovation.com",
+            "iovation.com", "kount.com", "signifyd.com",
+            "forter.com", "sardine.ai",
         ],
     }
 
