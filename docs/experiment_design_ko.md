@@ -49,9 +49,9 @@
 
 실측 완료 후 `scripts/compute_annotation_metrics.py`로 산출한 실제 값으로 위 표를 교체합니다. LLM 기반 접근이 Rule-based 대비 우수할 것으로 예상되며, 특히 모호한 표현(예: "필요한 경우 제3자에게 제공할 수 있음")의 법적 누락 판단에서 문맥 해석 능력이 기여할 것으로 봅니다.
 
-## 3. 통계 분석 계획
+## 3. 통계 분석
 
-`scipy.stats` 및 `statsmodels`를 활용하며, 모든 검정은 유의수준 α=0.05를 기준으로 합니다.
+`scipy.stats` 및 `statsmodels`를 활용하며, 모든 검정은 유의수준 α=0.05를 기준으로 합니다. 파이프라인 실행 후 `outputs/tables/hypothesis_tests.json`에 결과가 저장되며, 이를 `paper.md` §4.7 표에 기입합니다.
 
 ### 3.1 카이제곱 검정 & 피셔의 정확 검정
 

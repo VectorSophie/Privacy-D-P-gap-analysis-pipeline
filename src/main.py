@@ -315,6 +315,8 @@ def compute_mismatch(config: str = typer.Option(..., help="설정 파일 경로"
 @app.command()
 def run_stats(config: str = typer.Option(..., help="설정 파일 경로")):
     """7. 통계 분석"""
+    from src.stats.analyzer import StatsAnalyzer
+
     typer.echo("[7/8] 통계 분석")
     cfg = load_config(config)
     processed_dir = Path(cfg["paths"]["data_processed"])
@@ -322,6 +324,8 @@ def run_stats(config: str = typer.Option(..., help="설정 파일 경로")):
     ensure_dir(tables_dir)
 
     df = pd.read_csv(processed_dir / "mismatch.csv")
+
+    # basic counts
     summary = df[["under_disclosure", "over_disclosure"]].sum().rename("count").reset_index()
     summary.columns = ["type", "count"]
     summary.to_csv(tables_dir / "mismatch_stats.csv", index=False, encoding="utf-8-sig")
@@ -330,7 +334,35 @@ def run_stats(config: str = typer.Option(..., help="설정 파일 경로")):
     label_dist.columns = ["label", "count"]
     label_dist.to_csv(tables_dir / "label_distribution.csv", index=False, encoding="utf-8-sig")
 
+    # hypothesis tests (only when grouping columns are present)
+    hypothesis_results: dict = {}
+
+    if "industry" in df.columns:
+        hypothesis_results["chi2_industry_under_disclosure"] = StatsAnalyzer.chi_square_test(
+            df, group_col="industry", target_col="under_disclosure"
+        )
+
+        fintech_df = df.copy()
+        fintech_df["is_fintech"] = (fintech_df["industry"] == "fintech").astype(int)
+        if "tracker_count" in df.columns:
+            hypothesis_results["mann_whitney_fintech_tracker_count"] = StatsAnalyzer.mann_whitney_u_test(
+                fintech_df, group_col="is_fintech", value_col="tracker_count"
+            )
+        hypothesis_results["fisher_fintech_under_disclosure"] = StatsAnalyzer.fishers_exact_test(
+            fintech_df, group_col="is_fintech", target_col="under_disclosure"
+        )
+
+    if "policy_length" in df.columns and "tracker_count" in df.columns:
+        hypothesis_results["spearman_policy_length_tracker_count"] = StatsAnalyzer.spearman_correlation(
+            df, col1="policy_length", col2="tracker_count"
+        )
+
+    out_path = tables_dir / "hypothesis_tests.json"
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(hypothesis_results, f, ensure_ascii=False, indent=2, default=float)
+
     typer.echo(f"  -> 통계 저장 완료 ({tables_dir})")
+    typer.echo(f"  -> 가설 검정 결과: {out_path}")
 
 
 # ── 8. 리포트 ─────────────────────────────────────────────────────────────────
