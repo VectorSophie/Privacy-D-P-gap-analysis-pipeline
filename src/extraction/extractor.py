@@ -2,19 +2,27 @@ from bs4 import BeautifulSoup, Comment
 import re
 from typing import List
 
+# Minimum character count and required keyword set for a valid policy extraction.
+# Entries that fail either check are flagged as low_quality and excluded from LLM eval.
+_MIN_POLICY_CHARS = 500
+_POLICY_KEYWORDS = {"개인정보", "수집", "처리방침", "privacy", "policy"}
+
+
 class PolicyExtractor:
     """
     개인정보 처리방침 HTML에서 순수 본문 텍스트를 추출하는 휴리스틱 기반 추출기입니다.
-    
+
     [Heuristic 기준 명시]
     1. Boilerplate 제거: <nav>, <footer>, <header>, <aside> 등 본문과 무관한 시맨틱 태그 제거.
     2. 불필요 요소 제거: <script>, <style>, <noscript>, <iframe>, SVG, 주석 등 렌더링/동작 요소 제거.
-    3. Main Content 식별: 
+    3. Main Content 식별:
        - <main> 태그가 있으면 우선 고려.
        - 없으면 id나 class에 'content', 'privacy', 'policy', 'terms', 'main', 'container'가 포함된 가장 큰 <div> 탐색.
        - 특정 컨테이너를 찾지 못하면 <body> 전체를 대상으로 추출.
-    4. 문단 단위 Segmentation: 블록 레벨 태그(p, div, li, h1~h6 등)를 기준으로 텍스트를 분리하고, 
+    4. 문단 단위 Segmentation: 블록 레벨 태그(p, div, li, h1~h6 등)를 기준으로 텍스트를 분리하고,
        연속된 공백문자는 단일 공백으로 정규화하여 가독성 높은 문단 리스트 반환.
+    5. Quality flag: extracted text shorter than 500 chars or missing all policy keywords
+       is marked `quality_flag="low_quality"` to prevent LLM eval on homepage/blog text.
     """
     
     BOILERPLATE_TAGS = ['nav', 'footer', 'header', 'aside', 'menu']
@@ -84,3 +92,31 @@ class PolicyExtractor:
         self._clean_dom()
         main_container = self._find_main_content()
         return self._segment_text(main_container)
+
+    def extract_with_quality(self) -> dict:
+        """extract()와 동일하되 quality_flag를 함께 반환합니다.
+
+        Returns:
+            dict with keys:
+              - paragraphs: List[str]
+              - text: str (joined paragraphs)
+              - quality_flag: "ok" | "low_quality"
+              - quality_reason: str (empty string when ok)
+        """
+        paragraphs = self.extract()
+        text = " ".join(paragraphs)
+        text_lower = text.lower()
+
+        reasons = []
+        if len(text) < _MIN_POLICY_CHARS:
+            reasons.append(f"text_too_short ({len(text)} chars < {_MIN_POLICY_CHARS})")
+        if not any(kw in text_lower for kw in _POLICY_KEYWORDS):
+            reasons.append("missing_policy_keywords")
+
+        quality_flag = "low_quality" if reasons else "ok"
+        return {
+            "paragraphs": paragraphs,
+            "text": text,
+            "quality_flag": quality_flag,
+            "quality_reason": "; ".join(reasons),
+        }
