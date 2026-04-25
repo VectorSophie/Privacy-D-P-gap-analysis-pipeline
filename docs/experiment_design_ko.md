@@ -19,9 +19,11 @@
 
 자동화된 GPT-4 Turbo 평가 결과의 신뢰도를 검증하기 위해 수동 주석(Manual Annotation) 실험을 설계합니다.
 
+> **현황**: 표본 추출 스크립트(`scripts/sample_annotation.py`) 및 지표 산출 스크립트(`scripts/compute_annotation_metrics.py`) 작성 완료. 주석 작업 및 실측값 기록 진행 중. 아래 수치는 설계 목표값이며 실측 완료 후 갱신 예정.
+
 ### 검증 표본 구성 (N=100)
 
-- 랜덤 추출 70개
+- 랜덤 추출 70개 (`data/external/annotation_sample.csv`)
 - Rule-based Baseline과 LLM 판단이 충돌하는 Hard case 30개
 
 ### 주석자 구성
@@ -34,18 +36,18 @@
 | 웹 네트워크·트래커 기술 이해 | 1명 |
 | 훈련된 일반 주석자 | 1명 |
 
-### 검증 지표
+### 검증 지표 (설계 목표값 — 실측 전)
 
-- **Inter-rater Agreement**: Cohen's κ = **0.79** (실질적 일치, substantial agreement)
-- **분류 성능** (다수결 Ground Truth 기준):
+- **Inter-rater Agreement 목표**: Cohen's κ ≥ 0.75 (실질적 일치 기준)
+- **분류 성능 목표** (다수결 Ground Truth 기준):
 
-| 지표 | Rule-based Baseline | LLM (GPT-4 Turbo) |
+| 지표 | Rule-based Baseline (예상) | LLM (GPT-4 Turbo, 예상) |
 |---|---|---|
-| Precision | 0.71 | 0.84 |
-| Recall | 0.63 | 0.81 |
-| F1-score | 0.67 | **0.82** |
+| Precision | ~0.71 | ~0.84 |
+| Recall | ~0.63 | ~0.81 |
+| F1-score | ~0.67 | ~**0.82** |
 
-LLM 기반 접근은 Rule-based 대비 F1-score 기준 약 15%p 향상되었으며, 특히 "필요한 경우 제3자에게 제공할 수 있음"과 같은 모호한 표현의 법적 누락 판단에서 우수한 문맥 해석 능력을 나타냈습니다.
+실측 완료 후 `scripts/compute_annotation_metrics.py`로 산출한 실제 값으로 위 표를 교체합니다. LLM 기반 접근이 Rule-based 대비 우수할 것으로 예상되며, 특히 모호한 표현(예: "필요한 경우 제3자에게 제공할 수 있음")의 법적 누락 판단에서 문맥 해석 능력이 기여할 것으로 봅니다.
 
 ## 3. 통계 분석 계획
 
