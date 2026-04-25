@@ -31,6 +31,8 @@
 2. `<main>` 태그를 1순위로 탐색, 없으면 `class`/`id`에 식별 키워드(`content`, `privacy`, `policy`)가 포함된 `<div>` 중 텍스트 길이가 가장 긴 요소를 본문으로 추정
 3. 블록 레벨 렌더링 규칙을 모방하여 문단 단위 segmentation
 
+**품질 필터링**: 추출 결과가 500자 미만이거나 `개인정보`, `수집`, `처리방침`, `privacy`, `policy` 키워드를 하나도 포함하지 않는 경우 `quality_flag: low_quality`로 표시됩니다. 이 항목은 LLM 평가 단계에서 자동 제외되며, `scripts/check_extraction_quality.py`로 목록을 확인할 수 있습니다.
+
 ## 4. 서드파티 트래커 탐지 (detect-trackers)
 
 Playwright의 `page.on("request")` 이벤트 훅으로 페이지 로드 중 발생하는 모든 네트워크 요청을 캡처합니다.
