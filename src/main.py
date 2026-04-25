@@ -251,8 +251,21 @@ def evaluate_llm(config: str = typer.Option(..., help="설정 파일 경로")):
     typer.echo(f"  평가 모드: {mode} | 대상: {len(policies)}개")
 
     eval_results = {}
-    for i, (cid, paragraphs) in enumerate(policies.items(), 1):
-        text = "\n".join(paragraphs) if isinstance(paragraphs, list) else str(paragraphs)
+    skipped_low_quality = 0
+    for i, (cid, policy_data) in enumerate(policies.items(), 1):
+        # support both old list format and new dict format from extract_with_quality()
+        if isinstance(policy_data, dict):
+            if policy_data.get("quality_flag") == "low_quality":
+                eval_results[cid] = {
+                    "skipped": True,
+                    "quality_flag": "low_quality",
+                    "quality_reason": policy_data.get("quality_reason", ""),
+                }
+                skipped_low_quality += 1
+                continue
+            text = policy_data.get("text") or "\n".join(policy_data.get("paragraphs", []))
+        else:
+            text = "\n".join(policy_data) if isinstance(policy_data, list) else str(policy_data)
         try:
             result = evaluator.evaluate(text)
             eval_results[cid] = result.model_dump()
@@ -260,6 +273,9 @@ def evaluate_llm(config: str = typer.Option(..., help="설정 파일 경로")):
             eval_results[cid] = {"error": str(e)}
         if i % 50 == 0:
             typer.echo(f"  진행: {i}/{len(policies)}")
+
+    if skipped_low_quality:
+        typer.echo(f"  ⚠ low_quality로 LLM 평가 건너뜀: {skipped_low_quality}개")
 
     with open(processed_dir / "llm_eval.json", "w", encoding="utf-8") as f:
         json.dump(eval_results, f, ensure_ascii=False, indent=2)
