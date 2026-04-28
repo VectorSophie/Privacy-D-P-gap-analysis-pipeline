@@ -1,0 +1,3830 @@
+{
+  "MAN_0000": {
+    "status": "success",
+    "policy_url": "https://toss.im/user/privacy-history"
+  },
+  "MAN_0001": {
+    "status": "failed",
+    "policy_url": "https://banksalad.com"
+  },
+  "MAN_0002": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0003": {
+    "status": "success",
+    "policy_url": "https://8percent.kr/terms/privacy"
+  },
+  "MAN_0004": {
+    "status": "success",
+    "policy_url": "https://www.honestfund.kr/v2/terms/online-investment-service-use"
+  },
+  "MAN_0005": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0006": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0007": {
+    "status": "failed",
+    "policy_url": "https://coinone.co.kr"
+  },
+  "MAN_0008": {
+    "status": "failed",
+    "policy_url": "https://upbit.com"
+  },
+  "MAN_0009": {
+    "status": "failed",
+    "policy_url": "https://www.bithumb.com"
+  },
+  "MAN_0010": {
+    "status": "failed",
+    "policy_url": "https://dunamu.com"
+  },
+  "MAN_0011": {
+    "status": "failed",
+    "policy_url": "https://www.korbit.co.kr"
+  },
+  "MAN_0012": {
+    "status": "success",
+    "policy_url": "https://www.gopax.co.kr/terms"
+  },
+  "MAN_0013": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0014": {
+    "status": "success",
+    "policy_url": "https://www.finnq.com/details/policy/service"
+  },
+  "MAN_0015": {
+    "status": "failed",
+    "policy_url": "https://streami.co"
+  },
+  "MAN_0016": {
+    "status": "success",
+    "policy_url": "https://habitfactory.co/heart/planner-document#terms-of-service"
+  },
+  "MAN_0017": {
+    "status": "failed",
+    "policy_url": "https://www.musinsa.com"
+  },
+  "MAN_0018": {
+    "status": "failed",
+    "policy_url": "https://ohou.se"
+  },
+  "MAN_0019": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0020": {
+    "status": "failed",
+    "policy_url": "https://a-bly.com"
+  },
+  "MAN_0021": {
+    "status": "success",
+    "policy_url": "https://www.brandi.co.kr/policy"
+  },
+  "MAN_0022": {
+    "status": "success",
+    "policy_url": "https://cf.res.s.zigzag.kr/terms/user/service.html"
+  },
+  "MAN_0023": {
+    "status": "success",
+    "policy_url": "https://bucketplace.com/policy"
+  },
+  "MAN_0024": {
+    "status": "success",
+    "policy_url": "https://www.daangn.com/policy/terms/"
+  },
+  "MAN_0025": {
+    "status": "success",
+    "policy_url": "https://terms.bunjang.co.kr/terms/service.html"
+  },
+  "MAN_0026": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0027": {
+    "status": "failed",
+    "policy_url": "https://tumblbug.com"
+  },
+  "MAN_0028": {
+    "status": "success",
+    "policy_url": "https://class101.net/en/docs/terms/privacy"
+  },
+  "MAN_0029": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0030": {
+    "status": "success",
+    "policy_url": "https://enuma.com/terms/"
+  },
+  "MAN_0031": {
+    "status": "success",
+    "policy_url": "https://studypie.co/agreement/terms_of_service"
+  },
+  "MAN_0032": {
+    "status": "success",
+    "policy_url": "https://talingrules.oopy.io/e8cea072-2da7-4bb5-b4aa-79f89210d998"
+  },
+  "MAN_0033": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MAN_0034": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0035": {
+    "status": "success",
+    "policy_url": "https://codestates.com/terms/policy"
+  },
+  "MAN_0036": {
+    "status": "success",
+    "policy_url": "https://legal.elice.io/kr/policy/terms"
+  },
+  "MAN_0037": {
+    "status": "failed",
+    "policy_url": "https://riiid.co"
+  },
+  "MAN_0038": {
+    "status": "success",
+    "policy_url": "https://pid.pinkfong.com/terms?type=privacy-policy"
+  },
+  "MAN_0039": {
+    "status": "failed",
+    "policy_url": "https://www.speak.com"
+  },
+  "MAN_0040": {
+    "status": "success",
+    "policy_url": "https://fastcampus.co.kr"
+  },
+  "MAN_0041": {
+    "status": "success",
+    "policy_url": "https://modulabs.co.kr/policy/privacy-policy"
+  },
+  "MAN_0042": {
+    "status": "success",
+    "policy_url": "https://www.wisementor.net/pages/policy/service.php"
+  },
+  "MAN_0043": {
+    "status": "success",
+    "policy_url": "https://zero-base.co.kr/info/policies/access-terms"
+  },
+  "MAN_0044": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0045": {
+    "status": "success",
+    "policy_url": "https://company.doctornow.co.kr/board/?action=readpost&post_id=1029&bbspaged=2"
+  },
+  "MAN_0046": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0047": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0048": {
+    "status": "success",
+    "policy_url": "https://www.lunit.io/en/cookie-policy/"
+  },
+  "MAN_0049": {
+    "status": "success",
+    "policy_url": "https://www.vuno.co"
+  },
+  "MAN_0050": {
+    "status": "success",
+    "policy_url": "https://www.deepnoid.com/privacy-policy"
+  },
+  "MAN_0051": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0052": {
+    "status": "success",
+    "policy_url": "https://www.inbody.com/product/contents/privacy"
+  },
+  "MAN_0053": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0054": {
+    "status": "success",
+    "policy_url": "https://www.globalcbpr.org/privacy-certifications/directory/"
+  },
+  "MAN_0055": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0056": {
+    "status": "success",
+    "policy_url": "https://buzzvil.com/term/privacy-policy"
+  },
+  "MAN_0057": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0058": {
+    "status": "success",
+    "policy_url": "https://privacypolicy.flex.team/pp"
+  },
+  "MAN_0059": {
+    "status": "failed",
+    "policy_url": "https://www.wantedlab.com"
+  },
+  "MAN_0060": {
+    "status": "success",
+    "policy_url": "https://support.kmong.com/hc/ko/articles/56129099141785"
+  },
+  "MAN_0061": {
+    "status": "success",
+    "policy_url": "https://soomgo.com/terms/usage"
+  },
+  "MAN_0062": {
+    "status": "success",
+    "policy_url": "https://www.igaworks.com/privacy"
+  },
+  "MAN_0063": {
+    "status": "failed",
+    "policy_url": "https://scatterlab.co.kr"
+  },
+  "MAN_0064": {
+    "status": "success",
+    "policy_url": "https://login.wrtn.ai/wrtn/policy/service"
+  },
+  "MAN_0065": {
+    "status": "success",
+    "policy_url": "https://www.upstage.ai/privacy-policy"
+  },
+  "MAN_0066": {
+    "status": "failed",
+    "policy_url": "https://www.saltluxinno.com"
+  },
+  "MAN_0067": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0068": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0069": {
+    "status": "failed",
+    "policy_url": "https://www.selvasai.com"
+  },
+  "MAN_0070": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0071": {
+    "status": "success",
+    "policy_url": "https://www.alchera.ai/privacy"
+  },
+  "MAN_0072": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0073": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0074": {
+    "status": "success",
+    "policy_url": "https://www.nhn.com/esg?tab=businessConduct&subTab=ethicsPolicy&redirect=footer"
+  },
+  "MAN_0075": {
+    "status": "failed",
+    "policy_url": "https://linepluscorp.com"
+  },
+  "MAN_0076": {
+    "status": "success",
+    "policy_url": "https://policy.kakaoenterprise.com/service_privacy"
+  },
+  "MAN_0077": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0078": {
+    "status": "success",
+    "policy_url": "https://terms.vroong.com/privacy"
+  },
+  "MAN_0079": {
+    "status": "success",
+    "policy_url": "https://socar-docs.zendesk.com/hc/ko/articles/360048398254"
+  },
+  "MAN_0080": {
+    "status": "success",
+    "policy_url": "https://support.tadatada.com/terms/user/privacyUsageDetail"
+  },
+  "MAN_0081": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MAN_0082": {
+    "status": "success",
+    "policy_url": "https://policy.kakaomobility.com/viewer/?pageCode=LOCATION"
+  },
+  "MAN_0083": {
+    "status": "success",
+    "policy_url": "https://watcha.com"
+  },
+  "MAN_0084": {
+    "status": "success",
+    "policy_url": "https://www.lezhin.com/ko/policy/privacy"
+  },
+  "MAN_0085": {
+    "status": "success",
+    "policy_url": "https://www.flitto.com/terms/service"
+  },
+  "MAN_0086": {
+    "status": "failed",
+    "policy_url": "https://www.spoonradio.co"
+  },
+  "MAN_0087": {
+    "status": "success",
+    "policy_url": "https://policy.ridi.com/legal/terms"
+  },
+  "MAN_0088": {
+    "status": "success",
+    "policy_url": "https://www.millie.co.kr/v3/today/more/alarmCenter/notice?open=1"
+  },
+  "MAN_0089": {
+    "status": "success",
+    "policy_url": "https://publy.co/terms"
+  },
+  "MAN_0090": {
+    "status": "success",
+    "policy_url": "https://hyperconnect.com/terms/ko/privacy-policy.html"
+  },
+  "MAN_0091": {
+    "status": "success",
+    "policy_url": "https://www.podbbang.com/policies/privacy"
+  },
+  "MAN_0092": {
+    "status": "success",
+    "policy_url": "https://page.kakao.com/policy?type=terms"
+  },
+  "MAN_0093": {
+    "status": "success",
+    "policy_url": "https://pid.pinkfong.com/ko/terms?type=terms_and_conditions"
+  },
+  "MAN_0094": {
+    "status": "success",
+    "policy_url": "https://flybook.kr"
+  },
+  "MAN_0095": {
+    "status": "success",
+    "policy_url": "https://bookjournalism.com/user/terms"
+  },
+  "MAN_0096": {
+    "status": "success",
+    "policy_url": "https://main.d3qjzrynlab66o.amplifyapp.com/terms/common/terms-of-service"
+  },
+  "MAN_0097": {
+    "status": "failed",
+    "policy_url": "https://hogangnono.com"
+  },
+  "MAN_0098": {
+    "status": "success",
+    "policy_url": "https://zipdoc.co.kr"
+  },
+  "MAN_0099": {
+    "status": "failed",
+    "policy_url": "https://www.zigbang.com"
+  },
+  "MAN_0100": {
+    "status": "failed",
+    "policy_url": "https://www.yanolja.com"
+  },
+  "MAN_0101": {
+    "status": "failed",
+    "policy_url": "https://www.baemin.com"
+  },
+  "MAN_0102": {
+    "status": "success",
+    "policy_url": "https://www.yogiyo.co.kr#/policy/"
+  },
+  "MAN_0103": {
+    "status": "failed",
+    "policy_url": "https://www.coupangeats.com"
+  },
+  "MAN_0104": {
+    "status": "success",
+    "policy_url": "https://siksinhot.com/static2/html/siksinhot/privacy.html"
+  },
+  "MAN_0105": {
+    "status": "success",
+    "policy_url": "https://www.tablemanager.io/terms.html"
+  },
+  "MAN_0106": {
+    "status": "success",
+    "policy_url": "https://www.plaync.com/policy/service"
+  },
+  "MAN_0107": {
+    "status": "success",
+    "policy_url": "https://company.nexon.com"
+  },
+  "MAN_0108": {
+    "status": "failed",
+    "policy_url": "https://www.krafton.com"
+  },
+  "MAN_0109": {
+    "status": "success",
+    "policy_url": "https://smilegate.com/ko/privacy.do"
+  },
+  "MAN_0110": {
+    "status": "success",
+    "policy_url": "https://t1.kakaocdn.net/gamepub/policy/service.html?ggb=none"
+  },
+  "MAN_0111": {
+    "status": "success",
+    "policy_url": "https://www.pearlabyss.com"
+  },
+  "MAN_0112": {
+    "status": "success",
+    "policy_url": "https://policy.devsisters.com/ko/parental-guide/"
+  },
+  "MAN_0113": {
+    "status": "success",
+    "policy_url": "https://terms.withhive.com/terms/policy/view/M87/T50"
+  },
+  "MAN_0114": {
+    "status": "success",
+    "policy_url": "https://www.wemade.com/privacy-policy"
+  },
+  "MAN_0115": {
+    "status": "success",
+    "policy_url": "https://www.cookiebot.com/goto/privacy-policy/"
+  },
+  "MAN_0116": {
+    "status": "failed",
+    "policy_url": "https://www.gravity.co.kr"
+  },
+  "MSM_00043": {
+    "status": "success",
+    "policy_url": "https://deeplyinc.com/terms/privacy"
+  },
+  "MSM_00333": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_00348": {
+    "status": "success",
+    "policy_url": "http://www.luken.co.kr/?mid=Privacy"
+  },
+  "MSM_00601": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_00827": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_01201": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_01586": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_03142": {
+    "status": "success",
+    "policy_url": "https://www.wegive.co.kr"
+  },
+  "MSM_03256": {
+    "status": "success",
+    "policy_url": "https://smarthaccp.net"
+  },
+  "MSM_03980": {
+    "status": "failed",
+    "policy_url": "http://www.globalneocorp.com"
+  },
+  "MSM_04925": {
+    "status": "success",
+    "policy_url": "https://jiasoft.kr"
+  },
+  "MSM_04963": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_05380": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_05547": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_05567": {
+    "status": "failed",
+    "policy_url": "https://www.kjebi.com"
+  },
+  "MSM_06481": {
+    "status": "success",
+    "policy_url": "https://naver.worksmobile.com/terms/"
+  },
+  "MSM_07410": {
+    "status": "failed",
+    "policy_url": "https://www.jobplanet.co.kr"
+  },
+  "MSM_08429": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_09730": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_09959": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_10115": {
+    "status": "failed",
+    "policy_url": "http://4healthgo.com"
+  },
+  "MSM_10239": {
+    "status": "failed",
+    "policy_url": "https://www.drivegod.co.kr"
+  },
+  "MSM_10329": {
+    "status": "success",
+    "policy_url": "https://www.doublemsc.kr"
+  },
+  "MSM_10630": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_10700": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_11010": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_11033": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_11290": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_11498": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_12366": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_12581": {
+    "status": "failed",
+    "policy_url": "https://www.futuregen-cp.co.kr"
+  },
+  "MSM_13069": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_13255": {
+    "status": "success",
+    "policy_url": "https://www.gametoc.co.kr/com/privacy.html"
+  },
+  "MSM_13389": {
+    "status": "success",
+    "policy_url": "https://maplbooks.cafe24.com/member/privacy.html"
+  },
+  "MSM_13937": {
+    "status": "success",
+    "policy_url": "https://career.cdu.ac.kr/mod/page/view.do?MID=KR_07010000"
+  },
+  "MSM_14045": {
+    "status": "success",
+    "policy_url": "https://oligocompany.com/members/terms"
+  },
+  "MSM_14243": {
+    "status": "success",
+    "policy_url": "https://www.nike.com/help/a/returns-policy"
+  },
+  "MSM_14311": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_14477": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_14504": {
+    "status": "success",
+    "policy_url": "https://www.icentric.co.kr/default/terms/use.php"
+  },
+  "MSM_14787": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_14810": {
+    "status": "failed",
+    "policy_url": "https://www.mt.co.kr"
+  },
+  "MSM_15375": {
+    "status": "success",
+    "policy_url": "https://www.fnnews.com/userinfo/policy"
+  },
+  "MSM_15514": {
+    "status": "success",
+    "policy_url": "https://bomcooksikdang.com/policy"
+  },
+  "MSM_15846": {
+    "status": "success",
+    "policy_url": "https://www.10000recipe.com/user/rules.html?f=privacy"
+  },
+  "MSM_16051": {
+    "status": "success",
+    "policy_url": "https://dealsite.co.kr/mypage/myinfo"
+  },
+  "MSM_16097": {
+    "status": "success",
+    "policy_url": "https://yoora.mynuskin.co.kr"
+  },
+  "MSM_16208": {
+    "status": "success",
+    "policy_url": "http://www.casenews.co.kr/com/youthpolicy.html"
+  },
+  "MSM_16367": {
+    "status": "success",
+    "policy_url": "https://dealsite.co.kr/mypage/myinfo"
+  },
+  "MSM_16515": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_16533": {
+    "status": "success",
+    "policy_url": "https://www.eicn.co.kr/terms/1"
+  },
+  "MSM_16597": {
+    "status": "success",
+    "policy_url": "https://www.web2002.co.kr/other/policy.php"
+  },
+  "MSM_16697": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_16716": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_16724": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_16800": {
+    "status": "failed",
+    "policy_url": "https://www.bbsoft.kr"
+  },
+  "MSM_16820": {
+    "status": "success",
+    "policy_url": "https://www.mimint.co.kr/center/terms"
+  },
+  "MSM_16857": {
+    "status": "failed",
+    "policy_url": "https://firestop.co.kr"
+  },
+  "MSM_16919": {
+    "status": "success",
+    "policy_url": "https://www.albamon.com/service-center/notice/4790"
+  },
+  "MSM_16996": {
+    "status": "success",
+    "policy_url": "https://www.dn-solutions.com/kr/contents/service-policy.do"
+  },
+  "MSM_17024": {
+    "status": "success",
+    "policy_url": "http://www.nwtnews.co.kr/com/privacy.html"
+  },
+  "MSM_17101": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_17136": {
+    "status": "success",
+    "policy_url": "https://www.esglens.com/terms"
+  },
+  "MSM_17198": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_17328": {
+    "status": "success",
+    "policy_url": "https://www.kdb.co.kr/BZCOWS00N00.act?_mnuid=IHIHCS0072&wcmsPath=%2Fhmp%2Fco%2Fsc%2Fpi%2FCOSCPI0200.html"
+  },
+  "MSM_17339": {
+    "status": "success",
+    "policy_url": "https://clevercare.info/general-terms-and-conditions-of-use/"
+  },
+  "MSM_17395": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_17523": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_17530": {
+    "status": "failed",
+    "policy_url": "https://metaschole.com"
+  },
+  "MSM_17558": {
+    "status": "success",
+    "policy_url": "https://www.kriss.re.kr/menu.es?mid=a10901000000"
+  },
+  "MSM_17638": {
+    "status": "success",
+    "policy_url": "https://www.sisamagazine.co.kr/com/privacy.html"
+  },
+  "MSM_17695": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_17720": {
+    "status": "success",
+    "policy_url": "https://www.aegisecu.com/information/?uid=693&mod=document"
+  },
+  "MSM_17735": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_17935": {
+    "status": "failed",
+    "policy_url": "http://www.dmtlabs.co.kr"
+  },
+  "MSM_17997": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18042": {
+    "status": "success",
+    "policy_url": "https://www.tilko.net/Etc/Privacy"
+  },
+  "MSM_18050": {
+    "status": "success",
+    "policy_url": "https://www.ithimedia.co.kr/Policy/service"
+  },
+  "MSM_18062": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_18066": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18069": {
+    "status": "success",
+    "policy_url": "http://www.ehnetworks.com/main/privacy_policy.html"
+  },
+  "MSM_18098": {
+    "status": "success",
+    "policy_url": "https://biz.chosun.com/policy/"
+  },
+  "MSM_18107": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_18129": {
+    "status": "success",
+    "policy_url": "https://www.ubisoft.com/legal/documents/privacypolicy/"
+  },
+  "MSM_18139": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18147": {
+    "status": "success",
+    "policy_url": "https://www.joongang.co.kr/money/economicpolicy"
+  },
+  "MSM_18177": {
+    "status": "success",
+    "policy_url": "https://www.pyeoda.co.kr"
+  },
+  "MSM_18192": {
+    "status": "success",
+    "policy_url": "https://www.elscience.co.kr/service/private.php"
+  },
+  "MSM_18196": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18213": {
+    "status": "success",
+    "policy_url": "https://rosedej.kr/member/privacy.html"
+  },
+  "MSM_18256": {
+    "status": "failed",
+    "policy_url": "https://www.11st.co.kr"
+  },
+  "MSM_18276": {
+    "status": "success",
+    "policy_url": "http://www.korfin.kr/kr/member/mem_policy.php"
+  },
+  "MSM_18324": {
+    "status": "success",
+    "policy_url": "https://itivai.com/?act=info.privacy"
+  },
+  "MSM_18325": {
+    "status": "success",
+    "policy_url": "https://gw.ktbizoffice.com#perss"
+  },
+  "MSM_18329": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18332": {
+    "status": "failed",
+    "policy_url": "https://kingospring.com"
+  },
+  "MSM_18338": {
+    "status": "failed",
+    "policy_url": "http://kontrohertz.co.kr"
+  },
+  "MSM_18347": {
+    "status": "success",
+    "policy_url": "http://wizfactory.kr/default/personal.php?topmenu=6"
+  },
+  "MSM_18353": {
+    "status": "failed",
+    "policy_url": "https://www.knar.kr"
+  },
+  "MSM_18354": {
+    "status": "failed",
+    "policy_url": "https://midms.co.kr"
+  },
+  "MSM_18356": {
+    "status": "failed",
+    "policy_url": "https://www.hanbitdrone.com"
+  },
+  "MSM_18370": {
+    "status": "success",
+    "policy_url": "https://www.hbalance.co.kr"
+  },
+  "MSM_18379": {
+    "status": "failed",
+    "policy_url": "https://arttech.kr"
+  },
+  "MSM_18385": {
+    "status": "failed",
+    "policy_url": "https://softfreak.kr"
+  },
+  "MSM_18394": {
+    "status": "success",
+    "policy_url": "https://www.jeisys.com/terms/privacy_policy.php"
+  },
+  "MSM_18399": {
+    "status": "success",
+    "policy_url": "https://www.tu.ac.kr/tuhome/sub08_04.do"
+  },
+  "MSM_18406": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18439": {
+    "status": "success",
+    "policy_url": "https://www.yoodong.co.kr?module=Html&action=SiteComp&sSubNo=3"
+  },
+  "MSM_18442": {
+    "status": "success",
+    "policy_url": "https://en-ter.co.kr/ft/privacyPolicy.do"
+  },
+  "MSM_18448": {
+    "status": "success",
+    "policy_url": "https://weseb.com"
+  },
+  "MSM_18452": {
+    "status": "success",
+    "policy_url": "https://marketbz.com/personal"
+  },
+  "MSM_18454": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18465": {
+    "status": "success",
+    "policy_url": "https://www.peoplegate.co.kr/2026/04/lee-youngkwan-textile-policy-forum-2026-korea.html"
+  },
+  "MSM_18491": {
+    "status": "failed",
+    "policy_url": "https://ventureinkorea.com"
+  },
+  "MSM_18499": {
+    "status": "failed",
+    "policy_url": "https://www.hipass.co.kr"
+  },
+  "MSM_18504": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18511": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18523": {
+    "status": "success",
+    "policy_url": "https://www.geekplus.com/privacy-policy?hsLang=en"
+  },
+  "MSM_18525": {
+    "status": "success",
+    "policy_url": "https://lineage.plaync.com"
+  },
+  "MSM_18541": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18544": {
+    "status": "failed",
+    "policy_url": "https://www.druginfo.co.kr"
+  },
+  "MSM_18562": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18605": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18608": {
+    "status": "success",
+    "policy_url": "https://kr.made-in-china.com/html/terms-kr.html"
+  },
+  "MSM_18629": {
+    "status": "success",
+    "policy_url": "https://www.dailysecu.com/news/articleView.html?idxno=206405"
+  },
+  "MSM_18631": {
+    "status": "failed",
+    "policy_url": "https://www.descartescare.com"
+  },
+  "MSM_18642": {
+    "status": "success",
+    "policy_url": "https://www.sejongnetworks.com/page/privacy_info"
+  },
+  "MSM_18650": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18653": {
+    "status": "success",
+    "policy_url": "https://www.intoeng.com/html/etc/privacy.php"
+  },
+  "MSM_18655": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18667": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18674": {
+    "status": "failed",
+    "policy_url": "https://metablox.co.kr"
+  },
+  "MSM_18679": {
+    "status": "success",
+    "policy_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422835"
+  },
+  "MSM_18694": {
+    "status": "failed",
+    "policy_url": "https://adot.ai"
+  },
+  "MSM_18699": {
+    "status": "success",
+    "policy_url": "https://www.pia.space/terms"
+  },
+  "MSM_18706": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18714": {
+    "status": "success",
+    "policy_url": "https://www.albamon.com/service-center/notice/4790"
+  },
+  "MSM_18732": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18741": {
+    "status": "success",
+    "policy_url": "http://wiki1.kr/index.php/%EC%9C%84%ED%82%A4%EC%9B%90:%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EC%A0%95%EC%B1%85"
+  },
+  "MSM_18761": {
+    "status": "success",
+    "policy_url": "https://www.catchnews.kr/news/articleView.html?idxno=123171"
+  },
+  "MSM_18763": {
+    "status": "success",
+    "policy_url": "https://bbs.ruliweb.com/best/board/300143/read/74933063"
+  },
+  "MSM_18772": {
+    "status": "success",
+    "policy_url": "http://paranclinic.co.kr/etc/privacy.html"
+  },
+  "MSM_18775": {
+    "status": "success",
+    "policy_url": "https://privacypolicy.flex.team/pp"
+  },
+  "MSM_18790": {
+    "status": "success",
+    "policy_url": "https://seers.co.kr"
+  },
+  "MSM_18795": {
+    "status": "success",
+    "policy_url": "https://www.ilyanglogis.co.kr/sub/policy/policy01.asp"
+  },
+  "MSM_18805": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18806": {
+    "status": "failed",
+    "policy_url": "https://www.creatorlink.net"
+  },
+  "MSM_18807": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_18811": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18822": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18828": {
+    "status": "success",
+    "policy_url": "https://www.dailycc.net/com/privacy.html"
+  },
+  "MSM_18835": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18843": {
+    "status": "success",
+    "policy_url": "https://www.biztalk.co.kr/0402_privacy.html"
+  },
+  "MSM_18849": {
+    "status": "success",
+    "policy_url": "https://www.doosanartcenter.com/ko/privacy-policy"
+  },
+  "MSM_18852": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18861": {
+    "status": "failed",
+    "policy_url": "http://www.formtec.co.kr"
+  },
+  "MSM_18863": {
+    "status": "success",
+    "policy_url": "https://www.gamemeca.com/company.php?rts=cscenter02"
+  },
+  "MSM_18869": {
+    "status": "failed",
+    "policy_url": "https://www.innoforest.co.kr"
+  },
+  "MSM_18878": {
+    "status": "failed",
+    "policy_url": "https://www.innoforest.co.kr"
+  },
+  "MSM_18879": {
+    "status": "failed",
+    "policy_url": "https://metablox.co.kr"
+  },
+  "MSM_18880": {
+    "status": "success",
+    "policy_url": "https://www.thepublic.kr/com/privacy.html"
+  },
+  "MSM_18881": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18882": {
+    "status": "success",
+    "policy_url": "https://www.pressian.com"
+  },
+  "MSM_18885": {
+    "status": "failed",
+    "policy_url": "https://www.metainnotech.com"
+  },
+  "MSM_18889": {
+    "status": "success",
+    "policy_url": "https://www.ok.ac.kr/www/sub.do?key=5673"
+  },
+  "MSM_18895": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18907": {
+    "status": "failed",
+    "policy_url": "https://wplanet.co.kr"
+  },
+  "MSM_18913": {
+    "status": "success",
+    "policy_url": "https://com2usroca.com/policy/privacy-policy"
+  },
+  "MSM_18915": {
+    "status": "success",
+    "policy_url": "https://itnewcorp.com"
+  },
+  "MSM_18917": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18921": {
+    "status": "success",
+    "policy_url": "https://www.atecsystem.kr/policy/privacy.html"
+  },
+  "MSM_18922": {
+    "status": "failed",
+    "policy_url": "http://www.papaya9.com"
+  },
+  "MSM_18940": {
+    "status": "success",
+    "policy_url": "https://www.newsinside.kr/news/articleView.html?idxno=4617061"
+  },
+  "MSM_18942": {
+    "status": "failed",
+    "policy_url": "https://recruit.eloicube.com"
+  },
+  "MSM_18943": {
+    "status": "success",
+    "policy_url": "https://www.kwnews.co.kr/privacy"
+  },
+  "MSM_18947": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18958": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18963": {
+    "status": "success",
+    "policy_url": "http://www.e2news.com/com/privacy.html"
+  },
+  "MSM_18964": {
+    "status": "failed",
+    "policy_url": "https://www.redmouse.co.kr"
+  },
+  "MSM_18965": {
+    "status": "success",
+    "policy_url": "https://www.ibkonejob.co.kr/jp/ctb/policy/search.do"
+  },
+  "MSM_18973": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_18974": {
+    "status": "failed",
+    "policy_url": "https://linkplace.co.kr"
+  },
+  "MSM_18978": {
+    "status": "success",
+    "policy_url": "http://www.e2news.com/com/privacy.html"
+  },
+  "MSM_18986": {
+    "status": "success",
+    "policy_url": "https://www.leeko.com/leenko/footer/privacyPolicy.do?lang=KR"
+  },
+  "MSM_18988": {
+    "status": "success",
+    "policy_url": "https://www.rehahomecare.com"
+  },
+  "MSM_18989": {
+    "status": "success",
+    "policy_url": "https://www.chaos.com/privacy"
+  },
+  "MSM_18990": {
+    "status": "failed",
+    "policy_url": "https://www.laon-tech.com"
+  },
+  "MSM_19008": {
+    "status": "success",
+    "policy_url": "https://yangyangsoolgodgan.com/service/privacy"
+  },
+  "MSM_19009": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19012": {
+    "status": "success",
+    "policy_url": "https://www.albamon.com/service-center/notice/4790"
+  },
+  "MSM_19015": {
+    "status": "failed",
+    "policy_url": "https://www.mt.co.kr"
+  },
+  "MSM_19022": {
+    "status": "success",
+    "policy_url": "https://www.investnews.co.kr/com/privacy.html"
+  },
+  "MSM_19027": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19028": {
+    "status": "success",
+    "policy_url": "https://janghyunlaw.com/sub/pop_privacy.html"
+  },
+  "MSM_19031": {
+    "status": "failed",
+    "policy_url": "https://www.innoforest.co.kr"
+  },
+  "MSM_19032": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19034": {
+    "status": "success",
+    "policy_url": "https://www.everon.co.kr"
+  },
+  "MSM_19049": {
+    "status": "success",
+    "policy_url": "https://www.richdoc.co.kr/web/terms/?id=1"
+  },
+  "MSM_19061": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19069": {
+    "status": "success",
+    "policy_url": "https://www.nicebizinfo.com/cs/CS0100M001GE.nice?mbrclucd=PIP"
+  },
+  "MSM_19074": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19084": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19085": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19090": {
+    "status": "success",
+    "policy_url": "https://www.cetaphil.co.kr/terms-conditions.html"
+  },
+  "MSM_19091": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19092": {
+    "status": "failed",
+    "policy_url": "https://youumbba.org"
+  },
+  "MSM_19103": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19113": {
+    "status": "success",
+    "policy_url": "https://busancoffee.co.kr/member/privacy.html"
+  },
+  "MSM_19121": {
+    "status": "failed",
+    "policy_url": "https://bigxdata.io"
+  },
+  "MSM_19138": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19139": {
+    "status": "success",
+    "policy_url": "https://www.dailyvet.co.kr/category/news/policy"
+  },
+  "MSM_19141": {
+    "status": "success",
+    "policy_url": "https://www.dailykor.com/policy/terms"
+  },
+  "MSM_19143": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19154": {
+    "status": "success",
+    "policy_url": "http://ngmsoftware.com/bbs/content.php?co_id=privacy"
+  },
+  "MSM_19158": {
+    "status": "failed",
+    "policy_url": "https://gear2.net"
+  },
+  "MSM_19159": {
+    "status": "failed",
+    "policy_url": "https://home.ebs.co.kr"
+  },
+  "MSM_19179": {
+    "status": "success",
+    "policy_url": "https://www.dailygaewon.com/com/privacy.html"
+  },
+  "MSM_19184": {
+    "status": "success",
+    "policy_url": "https://nestshop.co.kr/member/privacy.html"
+  },
+  "MSM_19185": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19186": {
+    "status": "success",
+    "policy_url": "https://modulearning.kr/member/index.php?pid=4"
+  },
+  "MSM_19189": {
+    "status": "success",
+    "policy_url": "https://www.knewstv.kr/com/privacy.html"
+  },
+  "MSM_19190": {
+    "status": "success",
+    "policy_url": "http://www.doctorstimes.com/com/privacy.html"
+  },
+  "MSM_19193": {
+    "status": "failed",
+    "policy_url": "https://www.kokkanlogis.co.kr"
+  },
+  "MSM_19199": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19205": {
+    "status": "success",
+    "policy_url": "https://www.interfootball.co.kr/com/privacy.html"
+  },
+  "MSM_19207": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19216": {
+    "status": "success",
+    "policy_url": "https://korspo.com/member/privacy.html"
+  },
+  "MSM_19222": {
+    "status": "success",
+    "policy_url": "http://wiki1.kr/index.php/%EC%9C%84%ED%82%A4%EC%9B%90:%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4_%EC%A0%95%EC%B1%85"
+  },
+  "MSM_19235": {
+    "status": "success",
+    "policy_url": "https://secure.donga.com/membership/policy/teenager.php"
+  },
+  "MSM_19249": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19261": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19283": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19290": {
+    "status": "failed",
+    "policy_url": "https://www.thepmd.co.kr"
+  },
+  "MSM_19293": {
+    "status": "success",
+    "policy_url": "https://kr.findjob24h.com/general-inform-privacy-policy"
+  },
+  "MSM_19297": {
+    "status": "success",
+    "policy_url": "https://photomarketing.co.kr"
+  },
+  "MSM_19302": {
+    "status": "success",
+    "policy_url": "https://www.albamon.com/service-center/notice/4790"
+  },
+  "MSM_19303": {
+    "status": "success",
+    "policy_url": "https://softlunch.com"
+  },
+  "MSM_19307": {
+    "status": "failed",
+    "policy_url": "http://www.itforu.co.kr"
+  },
+  "MSM_19308": {
+    "status": "failed",
+    "policy_url": "http://fooddash.co.kr"
+  },
+  "MSM_19311": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19316": {
+    "status": "success",
+    "policy_url": "https://www.insidevina.com/com/privacy.html"
+  },
+  "MSM_19318": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19327": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19334": {
+    "status": "success",
+    "policy_url": "https://www.inven.co.kr/doc/privacy.php"
+  },
+  "MSM_19345": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19346": {
+    "status": "success",
+    "policy_url": "https://www.datanet.co.kr/news/articleView.html?idxno=211212"
+  },
+  "MSM_19357": {
+    "status": "success",
+    "policy_url": "https://www.cijkorea.com/doc/policy"
+  },
+  "MSM_19363": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19365": {
+    "status": "success",
+    "policy_url": "https://www.dailian.co.kr/info/privacy"
+  },
+  "MSM_19378": {
+    "status": "success",
+    "policy_url": "http://www.e2news.com/com/privacy.html"
+  },
+  "MSM_19382": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19384": {
+    "status": "success",
+    "policy_url": "https://smsoft.kr"
+  },
+  "MSM_19385": {
+    "status": "success",
+    "policy_url": "https://www.mootech.co.kr/members/terms"
+  },
+  "MSM_19388": {
+    "status": "success",
+    "policy_url": "http://msj3000.co.kr/en/company/management.php"
+  },
+  "MSM_19390": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19398": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19407": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_19416": {
+    "status": "success",
+    "policy_url": "https://www.gwangju.ac.kr/page/?site=gwangju&mn=469"
+  },
+  "MSM_19426": {
+    "status": "success",
+    "policy_url": "https://www.ycgroup.co.kr/policy"
+  },
+  "MSM_19429": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_19434": {
+    "status": "success",
+    "policy_url": "https://bbs.ruliweb.com/etcs/board/300143/read/74933063"
+  },
+  "MSM_19435": {
+    "status": "success",
+    "policy_url": "https://www.nicebizinfo.com/cs/CS0100M001GE.nice?mbrclucd=PIP"
+  },
+  "MSM_19443": {
+    "status": "success",
+    "policy_url": "https://ogijung.com/terms/06ba6090-5ba7-43dc-a723-ebe6f1123ed7"
+  },
+  "MSM_19444": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_19467": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19478": {
+    "status": "success",
+    "policy_url": "https://www.ncloud.com/intro/securityNotice/materials?utm_source=portal&utm_medium=cta_servicebanner&utm_campaign=securityguide&utm_id=security"
+  },
+  "MSM_19490": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19495": {
+    "status": "success",
+    "policy_url": "https://www.polymorph-studios.com"
+  },
+  "MSM_19497": {
+    "status": "success",
+    "policy_url": "https://www.bkwinner.co.kr/board/?id=sub48"
+  },
+  "MSM_19501": {
+    "status": "success",
+    "policy_url": "https://bbs.ruliweb.com/etcs/board/300143/read/74933063"
+  },
+  "MSM_19506": {
+    "status": "failed",
+    "policy_url": "https://tidepool.kr"
+  },
+  "MSM_19509": {
+    "status": "success",
+    "policy_url": "https://job.3dfia.org/mypage/personal.html"
+  },
+  "MSM_19510": {
+    "status": "success",
+    "policy_url": "https://www.farmfam.co.kr"
+  },
+  "MSM_19513": {
+    "status": "success",
+    "policy_url": "http://info.krx.co.kr/contents/KRX/06/06070100/KRX06070100.jsp"
+  },
+  "MSM_19514": {
+    "status": "failed",
+    "policy_url": "https://www.actnova.io"
+  },
+  "MSM_19521": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19527": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_19533": {
+    "status": "failed",
+    "policy_url": "http://www.ezntv.co.kr"
+  },
+  "MSM_19534": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19537": {
+    "status": "success",
+    "policy_url": "https://go.seoul.co.kr/news/newsList.php?section=policy_admin"
+  },
+  "MSM_19539": {
+    "status": "success",
+    "policy_url": "https://from3pm.com/agreements/privacy"
+  },
+  "MSM_19550": {
+    "status": "success",
+    "policy_url": "http://www.korfin.kr/kr/member/mem_policy.php"
+  },
+  "MSM_19561": {
+    "status": "success",
+    "policy_url": "https://www.minisoft.co.kr#privacyPolicy"
+  },
+  "MSM_19565": {
+    "status": "success",
+    "policy_url": "https://www.asiae.co.kr/company/board-view/notice/2026022410534493792A"
+  },
+  "MSM_19568": {
+    "status": "success",
+    "policy_url": "https://davision.co.kr"
+  },
+  "MSM_19572": {
+    "status": "failed",
+    "policy_url": "https://www.neogift.kr"
+  },
+  "MSM_19575": {
+    "status": "success",
+    "policy_url": "https://www.kdpress.co.kr/com/privacy.html"
+  },
+  "MSM_19586": {
+    "status": "success",
+    "policy_url": "https://www.dn-solutions.com/kr/contents/service-policy.do"
+  },
+  "MSM_19590": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_19591": {
+    "status": "success",
+    "policy_url": "https://www.it-b.co.kr/com/privacy.html"
+  },
+  "MSM_19602": {
+    "status": "success",
+    "policy_url": "https://support.kmong.com/hc/ko/articles/56129099141785"
+  },
+  "MSM_19609": {
+    "status": "success",
+    "policy_url": "https://disneytermsofuse.com"
+  },
+  "MSM_19612": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19613": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19619": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_19633": {
+    "status": "failed",
+    "policy_url": "https://batcrew.co.kr"
+  },
+  "MSM_19637": {
+    "status": "success",
+    "policy_url": "http://kdhangeul.com/privacy.html"
+  },
+  "MSM_19639": {
+    "status": "success",
+    "policy_url": "http://www.nexonesoft.com/solution/InnoverDe-ID.php"
+  },
+  "MSM_19640": {
+    "status": "success",
+    "policy_url": "http://www.ithemove.com/com/privacy.html"
+  },
+  "MSM_19645": {
+    "status": "success",
+    "policy_url": "https://www.mycreatz.com/etc/terms"
+  },
+  "MSM_19651": {
+    "status": "failed",
+    "policy_url": "https://www.innoforest.co.kr"
+  },
+  "MSM_19659": {
+    "status": "success",
+    "policy_url": "https://privacy.lguplus.com/privacy/info/v1/1"
+  },
+  "MSM_19662": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19663": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19667": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_19669": {
+    "status": "success",
+    "policy_url": "https://nstatic.dcinside.com/dc/w/policy/policy_index.html"
+  },
+  "MSM_19670": {
+    "status": "failed",
+    "policy_url": "https://www.fmkorea.com"
+  },
+  "MSM_19674": {
+    "status": "success",
+    "policy_url": "https://www.wikiwand.com/legal/privacy"
+  },
+  "MSM_19678": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19680": {
+    "status": "failed",
+    "policy_url": "https://www.kjebi.com"
+  },
+  "MSM_19681": {
+    "status": "success",
+    "policy_url": "https://www.gameinsight.co.kr/com/privacy.html"
+  },
+  "MSM_19685": {
+    "status": "success",
+    "policy_url": "https://www.shoplive.cloud/privacy-policy"
+  },
+  "MSM_19686": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19687": {
+    "status": "success",
+    "policy_url": "https://www.mhnse.com/com/privacy.html"
+  },
+  "MSM_19692": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19700": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19706": {
+    "status": "success",
+    "policy_url": "http://www.aipostkorea.com/com/privacy.html"
+  },
+  "MSM_19712": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19717": {
+    "status": "success",
+    "policy_url": "https://www.dailian.co.kr/info/privacy"
+  },
+  "MSM_19723": {
+    "status": "success",
+    "policy_url": "https://www.postype.com/privacy"
+  },
+  "MSM_19736": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_19737": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19744": {
+    "status": "failed",
+    "policy_url": "https://printingbox.kr"
+  },
+  "MSM_19747": {
+    "status": "success",
+    "policy_url": "https://www.edufindkorea.com/privacy.php"
+  },
+  "MSM_19750": {
+    "status": "success",
+    "policy_url": "https://library.trendier.ai/page/terms_of_service"
+  },
+  "MSM_19756": {
+    "status": "success",
+    "policy_url": "https://support.kmong.com/hc/ko/articles/56129099141785"
+  },
+  "MSM_19764": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_19772": {
+    "status": "success",
+    "policy_url": "https://drive.google.com/file/d/12hcpG81GtGmwilNdrf8Awm9XjrPoCtIe/view?usp=sharing"
+  },
+  "MSM_19773": {
+    "status": "success",
+    "policy_url": "http://www.celuvmedia.com/company/?menu=privacy"
+  },
+  "MSM_19783": {
+    "status": "success",
+    "policy_url": "https://tkk.alpen-route.co.jp/policy"
+  },
+  "MSM_19787": {
+    "status": "success",
+    "policy_url": "https://www.sysandj.com/개인정보/"
+  },
+  "MSM_19791": {
+    "status": "success",
+    "policy_url": "https://www.cuonet.com/bbs/page.php?hid=privacy"
+  },
+  "MSM_19793": {
+    "status": "success",
+    "policy_url": "https://www.soijeong.com"
+  },
+  "MSM_19798": {
+    "status": "failed",
+    "policy_url": "https://starpickers.imweb.me"
+  },
+  "MSM_19800": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19810": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19811": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19812": {
+    "status": "failed",
+    "policy_url": "https://www.hidemeplease.xyz"
+  },
+  "MSM_19817": {
+    "status": "success",
+    "policy_url": "https://gracebell.co.kr/member/privacy.html"
+  },
+  "MSM_19818": {
+    "status": "success",
+    "policy_url": "http://www.e-onm.com/bbs/content.php?co_id=privacy"
+  },
+  "MSM_19820": {
+    "status": "success",
+    "policy_url": "https://www.dailysecu.com/news/articleView.html?idxno=206405"
+  },
+  "MSM_19825": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19828": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19829": {
+    "status": "success",
+    "policy_url": "https://support.kmong.com/hc/ko/articles/56129099141785"
+  },
+  "MSM_19832": {
+    "status": "success",
+    "policy_url": "https://www.hankookandcompany.com/en/privacy-policy.do"
+  },
+  "MSM_19833": {
+    "status": "success",
+    "policy_url": "http://www.kornicglory.co.kr/policy/privacy.html"
+  },
+  "MSM_19834": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19835": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19839": {
+    "status": "failed",
+    "policy_url": "https://www.druginfo.co.kr"
+  },
+  "MSM_19841": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19843": {
+    "status": "success",
+    "policy_url": "https://www.thenexa.io"
+  },
+  "MSM_19848": {
+    "status": "success",
+    "policy_url": "https://ninetwolabs.com/privacy"
+  },
+  "MSM_19849": {
+    "status": "success",
+    "policy_url": "https://lovemove.co.kr/member/privacy.html"
+  },
+  "MSM_19860": {
+    "status": "failed",
+    "policy_url": "https://www.socialerus.com"
+  },
+  "MSM_19863": {
+    "status": "success",
+    "policy_url": "https://www.privacy.go.kr/"
+  },
+  "MSM_19867": {
+    "status": "success",
+    "policy_url": "https://www.nicebizinfo.com/cs/CS0100M001GE.nice?mbrclucd=PIP"
+  },
+  "MSM_19880": {
+    "status": "failed",
+    "policy_url": "https://fastorder.kr"
+  },
+  "MSM_19882": {
+    "status": "success",
+    "policy_url": "https://www.gmdsoft.com/privacy-policy/"
+  },
+  "MSM_19892": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19894": {
+    "status": "success",
+    "policy_url": "https://travelwebsite.kr/policy"
+  },
+  "MSM_19895": {
+    "status": "success",
+    "policy_url": "https://www.slist.kr/com/privacy.html"
+  },
+  "MSM_19896": {
+    "status": "success",
+    "policy_url": "https://boottent.com"
+  },
+  "MSM_19899": {
+    "status": "success",
+    "policy_url": "https://litt.ly/terms?utm_campaign=%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80&utm_medium=bio&utm_source=littly"
+  },
+  "MSM_19900": {
+    "status": "failed",
+    "policy_url": "https://imweb.me"
+  },
+  "MSM_19901": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_19902": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19912": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19913": {
+    "status": "success",
+    "policy_url": "https://www.grinda.ai/ko/privacy-policy"
+  },
+  "MSM_19916": {
+    "status": "success",
+    "policy_url": "https://footystats.org/privacy-policy"
+  },
+  "MSM_19919": {
+    "status": "success",
+    "policy_url": "https://hedgehg.kr/term/private-policy"
+  },
+  "MSM_19920": {
+    "status": "success",
+    "policy_url": "https://nemoz.io"
+  },
+  "MSM_19927": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19930": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19940": {
+    "status": "success",
+    "policy_url": "https://www.pondmakers.com#privacyPop"
+  },
+  "MSM_19941": {
+    "status": "success",
+    "policy_url": "https://sidiz-dev.myshopify.com/policies/privacy-policy"
+  },
+  "MSM_19947": {
+    "status": "success",
+    "policy_url": "https://bizcube-sol.com"
+  },
+  "MSM_19948": {
+    "status": "success",
+    "policy_url": "https://www.hongruizhen.com"
+  },
+  "MSM_19962": {
+    "status": "failed",
+    "policy_url": "https://www.sedaily.com"
+  },
+  "MSM_19966": {
+    "status": "success",
+    "policy_url": "https://pulstory.pulmuone.com/bbs/page.php?hid=privacy"
+  },
+  "MSM_19974": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19980": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_19982": {
+    "status": "success",
+    "policy_url": "https://member.juvis.co.kr/page/terms/member/juvis-use"
+  },
+  "MSM_19985": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19987": {
+    "status": "failed",
+    "policy_url": "https://www.partitionwizard.com"
+  },
+  "MSM_19988": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_19992": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_19993": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_19997": {
+    "status": "success",
+    "policy_url": "https://weseb.com"
+  },
+  "MSM_20000": {
+    "status": "success",
+    "policy_url": "https://frienderma.com/member/privacy.html"
+  },
+  "MSM_20003": {
+    "status": "success",
+    "policy_url": "https://www.koreatoothbank.com/service/usepolicy"
+  },
+  "MSM_20004": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20010": {
+    "status": "success",
+    "policy_url": "https://marketbz.com/personal"
+  },
+  "MSM_20011": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20019": {
+    "status": "success",
+    "policy_url": "https://www.sba.seoul.kr/skin/doc.html?fn=하이서울기업_개인정보_처리방침_260211.hwp&rs=/files/sysnapconvert/d0d5faa6-5bb9-ec11-b3f9-d4f5ef4a1e33/result"
+  },
+  "MSM_20022": {
+    "status": "success",
+    "policy_url": "https://www.dailycc.net/com/privacy.html"
+  },
+  "MSM_20025": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20048": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20050": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20051": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20057": {
+    "status": "success",
+    "policy_url": "https://www.infograb.net/privacy"
+  },
+  "MSM_20062": {
+    "status": "failed",
+    "policy_url": "https://www.naksi.co.kr"
+  },
+  "MSM_20072": {
+    "status": "failed",
+    "policy_url": "https://www.hankyung.com"
+  },
+  "MSM_20076": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20084": {
+    "status": "success",
+    "policy_url": "https://www.insystem.kr"
+  },
+  "MSM_20085": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20090": {
+    "status": "success",
+    "policy_url": "https://www.nsoft.co.kr"
+  },
+  "MSM_20096": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20102": {
+    "status": "success",
+    "policy_url": "https://marketbz.com/personal"
+  },
+  "MSM_20103": {
+    "status": "failed",
+    "policy_url": "https://gravitylabs.career.greetinghr.com"
+  },
+  "MSM_20109": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20119": {
+    "status": "success",
+    "policy_url": "https://www.hbalance.co.kr"
+  },
+  "MSM_20120": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20126": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_20141": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_20148": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20154": {
+    "status": "success",
+    "policy_url": "https://jautour.com/site/person.html"
+  },
+  "MSM_20156": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20158": {
+    "status": "success",
+    "policy_url": "https://uconnhuskies.com/sports/2024/8/19/ticket-holder-terms-and-conditions.aspx"
+  },
+  "MSM_20165": {
+    "status": "success",
+    "policy_url": "http://shakebone.kr/bbs/content.php?co_id=privacy"
+  },
+  "MSM_20166": {
+    "status": "success",
+    "policy_url": "https://www.mk.co.kr/news/economy/economic-policy"
+  },
+  "MSM_20169": {
+    "status": "success",
+    "policy_url": "http://www.healthbiz.co.kr/com/privacy.html"
+  },
+  "MSM_20183": {
+    "status": "success",
+    "policy_url": "https://www.smart-eco.co.kr"
+  },
+  "MSM_20190": {
+    "status": "success",
+    "policy_url": "https://rabbitoad.github.io/policies/ddokbi/privacy_policy.html"
+  },
+  "MSM_20194": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20198": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20205": {
+    "status": "success",
+    "policy_url": "https://beenhoney.com/member/privacy.html"
+  },
+  "MSM_20207": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20210": {
+    "status": "success",
+    "policy_url": "https://www.ajunews.com/ai/policy"
+  },
+  "MSM_20225": {
+    "status": "success",
+    "policy_url": "https://www.naverlabs.com/privacy"
+  },
+  "MSM_20230": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20232": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20234": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20245": {
+    "status": "failed",
+    "policy_url": "https://bigmobility.co.kr"
+  },
+  "MSM_20248": {
+    "status": "success",
+    "policy_url": "https://jcodebox.kr/main/terms_use.php"
+  },
+  "MSM_20254": {
+    "status": "success",
+    "policy_url": "https://recruit.sckcorp.co.kr"
+  },
+  "MSM_20266": {
+    "status": "failed",
+    "policy_url": "https://mariej.co.kr"
+  },
+  "MSM_20274": {
+    "status": "success",
+    "policy_url": "https://www.bomtoon.com"
+  },
+  "MSM_20275": {
+    "status": "success",
+    "policy_url": "https://www.mdon.co.kr/news/article.html?no=35243"
+  },
+  "MSM_20280": {
+    "status": "success",
+    "policy_url": "https://www.ok.ac.kr/www/sub.do?key=5673"
+  },
+  "MSM_20281": {
+    "status": "success",
+    "policy_url": "https://www.gdweb.co.kr/sub/privacy.asp"
+  },
+  "MSM_20283": {
+    "status": "failed",
+    "policy_url": "https://adiot.co.kr"
+  },
+  "MSM_20291": {
+    "status": "success",
+    "policy_url": "https://www.mcygclean.com/company/privacy.jsp"
+  },
+  "MSM_20294": {
+    "status": "failed",
+    "policy_url": "https://www.hipass.co.kr"
+  },
+  "MSM_20295": {
+    "status": "success",
+    "policy_url": "https://www.icetour.co.kr/company/terms.do"
+  },
+  "MSM_20310": {
+    "status": "success",
+    "policy_url": "https://www.inbiznetcorp.com/News/NewsView.inbiz?boardname=news01&seq=1410"
+  },
+  "MSM_20319": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_20323": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_20326": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20330": {
+    "status": "success",
+    "policy_url": "https://www.foxedu.kr/msi/cntntsService.do?menuId=MNU_0000000000000057"
+  },
+  "MSM_20332": {
+    "status": "success",
+    "policy_url": "https://playsquad.gg/rules/ko/privacy.html"
+  },
+  "MSM_20333": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20338": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20339": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20344": {
+    "status": "failed",
+    "policy_url": "https://imweb.me"
+  },
+  "MSM_20346": {
+    "status": "success",
+    "policy_url": "https://www.sentv.co.kr/event/view/policy_privacy"
+  },
+  "MSM_20355": {
+    "status": "failed",
+    "policy_url": "https://www.queenonline.com"
+  },
+  "MSM_20358": {
+    "status": "failed",
+    "policy_url": "https://www.slrclub.com"
+  },
+  "MSM_20364": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20367": {
+    "status": "failed",
+    "policy_url": "https://www.dandykorea.net"
+  },
+  "MSM_20375": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20386": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20393": {
+    "status": "success",
+    "policy_url": "https://www.funzin.co.kr/support/privacy"
+  },
+  "MSM_20394": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20395": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20397": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_20412": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20416": {
+    "status": "success",
+    "policy_url": "https://www.gamevu.co.kr/com/privacy.html"
+  },
+  "MSM_20425": {
+    "status": "success",
+    "policy_url": "https://www.sisajournal-e.com/com/youthpolicy.html"
+  },
+  "MSM_20426": {
+    "status": "failed",
+    "policy_url": "https://www.candidate.im"
+  },
+  "MSM_20429": {
+    "status": "success",
+    "policy_url": "https://caem.sesisoft.com/privacy"
+  },
+  "MSM_20437": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20439": {
+    "status": "success",
+    "policy_url": "https://aiernews.kr/bbs/content.php?co_id=privacy"
+  },
+  "MSM_20441": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20451": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20453": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20455": {
+    "status": "success",
+    "policy_url": "https://www.nicebizinfo.com/cs/CS0100M001GE.nice?mbrclucd=PIP"
+  },
+  "MSM_20456": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_20463": {
+    "status": "success",
+    "policy_url": "http://www.weepcc.com/policy/youthProtectionPolicy.do"
+  },
+  "MSM_20468": {
+    "status": "success",
+    "policy_url": "https://www.giordano.co.kr/board/?db=basic_1&no=1261&mari_mode=view@view&module=true"
+  },
+  "MSM_20474": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20480": {
+    "status": "success",
+    "policy_url": "https://www.ibkonejob.co.kr/jp/ctb/policy/search.do"
+  },
+  "MSM_20483": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20485": {
+    "status": "success",
+    "policy_url": "https://www.inven.co.kr/doc/privacy.php"
+  },
+  "MSM_20487": {
+    "status": "failed",
+    "policy_url": "https://www.milvus.co.kr"
+  },
+  "MSM_20488": {
+    "status": "success",
+    "policy_url": "https://shuvic.co.kr/pinfoProc/pinfoProcContInfo.do"
+  },
+  "MSM_20493": {
+    "status": "success",
+    "policy_url": "http://www.korfin.kr/kr/member/mem_policy.php"
+  },
+  "MSM_20494": {
+    "status": "success",
+    "policy_url": "https://www.kihoilbo.co.kr/com/privacy.html"
+  },
+  "MSM_20497": {
+    "status": "success",
+    "policy_url": "https://sgcoslab.com"
+  },
+  "MSM_20504": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20515": {
+    "status": "success",
+    "policy_url": "https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+  },
+  "MSM_20518": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20522": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20523": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20528": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20530": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20531": {
+    "status": "success",
+    "policy_url": "https://www.jungle.co.kr/terms/use"
+  },
+  "MSM_20533": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20537": {
+    "status": "success",
+    "policy_url": "https://marketbz.com/personal"
+  },
+  "MSM_20542": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20544": {
+    "status": "success",
+    "policy_url": "https://www.newswire.co.kr/?xd=35"
+  },
+  "MSM_20546": {
+    "status": "success",
+    "policy_url": "https://www.enetnews.co.kr/com/privacy.html"
+  },
+  "MSM_20557": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_20558": {
+    "status": "success",
+    "policy_url": "http://www.sto.or.kr/english/privacy"
+  },
+  "MSM_20561": {
+    "status": "success",
+    "policy_url": "http://blog.hsad.co.kr/3699"
+  },
+  "MSM_20568": {
+    "status": "success",
+    "policy_url": "http://fainbridge.hk/bbs/content.php?co_id=privacy"
+  },
+  "MSM_20574": {
+    "status": "success",
+    "policy_url": "https://www.ipnn.co.kr/com/privacy.html"
+  },
+  "MSM_20579": {
+    "status": "success",
+    "policy_url": "https://bbs.ruliweb.com/etcs/board/300143/read/74933063"
+  },
+  "MSM_20580": {
+    "status": "failed",
+    "policy_url": "https://home.ebs.co.kr"
+  },
+  "MSM_20588": {
+    "status": "failed",
+    "policy_url": "https://www.soleo.co.kr"
+  },
+  "MSM_20601": {
+    "status": "failed",
+    "policy_url": "https://www.wineroute.kr"
+  },
+  "MSM_20605": {
+    "status": "failed",
+    "policy_url": "http://www.paulus.pro"
+  },
+  "MSM_20606": {
+    "status": "success",
+    "policy_url": "https://www.fillplus.co.kr/bbs/content.php?co_id=privacy"
+  },
+  "MSM_20610": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20613": {
+    "status": "failed",
+    "policy_url": "https://corp.on-out.com"
+  },
+  "MSM_20625": {
+    "status": "success",
+    "policy_url": "https://www.ggemguide.com/terms.htm"
+  },
+  "MSM_20631": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20634": {
+    "status": "success",
+    "policy_url": "https://www.albamon.com/service-center/notice/4790"
+  },
+  "MSM_20638": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20640": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20643": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_20670": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20674": {
+    "status": "success",
+    "policy_url": "https://www.hankookcs.com/kr/etc/privacy.php"
+  },
+  "MSM_20678": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20679": {
+    "status": "success",
+    "policy_url": "https://policy.golfzon.com/privacy"
+  },
+  "MSM_20689": {
+    "status": "failed",
+    "policy_url": "https://ventureinkorea.com"
+  },
+  "MSM_20704": {
+    "status": "success",
+    "policy_url": "https://maily.so/app/service_policy"
+  },
+  "MSM_20715": {
+    "status": "success",
+    "policy_url": "https://www.bnfw.co.jp/en/privacy/"
+  },
+  "MSM_20730": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20742": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20756": {
+    "status": "success",
+    "policy_url": "https://privacy.kisa.or.kr"
+  },
+  "MSM_20757": {
+    "status": "failed",
+    "policy_url": "https://fatmanscoop.com"
+  },
+  "MSM_20761": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20775": {
+    "status": "success",
+    "policy_url": "https://www.i-angel.co.kr/privacy-policy/"
+  },
+  "MSM_20785": {
+    "status": "success",
+    "policy_url": "https://www.nsoft.co.kr"
+  },
+  "MSM_20794": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_20804": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20814": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_20818": {
+    "status": "success",
+    "policy_url": "https://www.landroverkorea.co.kr/cookie-and-privacy-policy.html"
+  },
+  "MSM_20820": {
+    "status": "failed",
+    "policy_url": "http://blackstormcompany.com"
+  },
+  "MSM_20823": {
+    "status": "failed",
+    "policy_url": "https://crypto.com"
+  },
+  "MSM_20829": {
+    "status": "failed",
+    "policy_url": "https://www.mockingbird.co.kr"
+  },
+  "MSM_20833": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20834": {
+    "status": "success",
+    "policy_url": "https://linkonbiz.com/agreement/terms"
+  },
+  "MSM_20849": {
+    "status": "success",
+    "policy_url": "https://www.evertri.com?pmode=privacyPolicy"
+  },
+  "MSM_20855": {
+    "status": "success",
+    "policy_url": "https://abib.com/member/privacy.html"
+  },
+  "MSM_20857": {
+    "status": "success",
+    "policy_url": "https://www.kiip.re.kr/contents/policy_information1.do"
+  },
+  "MSM_20859": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20862": {
+    "status": "success",
+    "policy_url": "https://wonderhome.kr/members/terms"
+  },
+  "MSM_20869": {
+    "status": "success",
+    "policy_url": "https://pokemonkorea.co.kr/pokemonhome/menu300?number=4169&mode=view"
+  },
+  "MSM_20871": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20879": {
+    "status": "failed",
+    "policy_url": "https://linktr.ee"
+  },
+  "MSM_20880": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20888": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20893": {
+    "status": "success",
+    "policy_url": "http://pinecharmstay.com"
+  },
+  "MSM_20905": {
+    "status": "success",
+    "policy_url": "https://livingdesignfair.co.kr/policy"
+  },
+  "MSM_20922": {
+    "status": "failed",
+    "policy_url": "https://www.ptbro.co.kr"
+  },
+  "MSM_20928": {
+    "status": "success",
+    "policy_url": "https://en-ter.co.kr/ft/privacyPolicy.do"
+  },
+  "MSM_20932": {
+    "status": "failed",
+    "policy_url": "https://www.hankyung.com"
+  },
+  "MSM_20940": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20947": {
+    "status": "success",
+    "policy_url": "https://linkonbiz.com/agreement/terms"
+  },
+  "MSM_20953": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20955": {
+    "status": "success",
+    "policy_url": "https://www.globalcbpr.org/privacy-certifications/directory/"
+  },
+  "MSM_20957": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20962": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20967": {
+    "status": "failed",
+    "policy_url": "https://finca.kr"
+  },
+  "MSM_20969": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_20975": {
+    "status": "success",
+    "policy_url": "https://www.dailian.co.kr/info/privacy"
+  },
+  "MSM_20978": {
+    "status": "success",
+    "policy_url": "https://xn--ok0b236bp0a.com/terms"
+  },
+  "MSM_20982": {
+    "status": "success",
+    "policy_url": "https://www.investnews.co.kr/com/privacy.html"
+  },
+  "MSM_20994": {
+    "status": "success",
+    "policy_url": "https://www.kbsi.re.kr/menu?menuId=MENU002170300000000"
+  },
+  "MSM_21008": {
+    "status": "success",
+    "policy_url": "https://shop.kt.com#3"
+  },
+  "MSM_21011": {
+    "status": "success",
+    "policy_url": "http://www.yugioh.co.kr/site/article_info.php?code=terms"
+  },
+  "MSM_21016": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_21022": {
+    "status": "success",
+    "policy_url": "https://member.jinhak.com/MemberV3/Policy/Terms.aspx"
+  },
+  "MSM_21024": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21025": {
+    "status": "success",
+    "policy_url": "https://t.me/privacy"
+  },
+  "MSM_21038": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21043": {
+    "status": "success",
+    "policy_url": "https://www.yair.co.kr/member/privacy"
+  },
+  "MSM_21046": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21052": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21053": {
+    "status": "failed",
+    "policy_url": "https://www.savetreexp.co.kr"
+  },
+  "MSM_21054": {
+    "status": "success",
+    "policy_url": "https://touraz.kr/tourismPolicy"
+  },
+  "MSM_21056": {
+    "status": "success",
+    "policy_url": "https://www.wooriups.com"
+  },
+  "MSM_21072": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21075": {
+    "status": "failed",
+    "policy_url": "https://xn--sy2btbu31bqgz3kp7cmr4ajge.site"
+  },
+  "MSM_21076": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21078": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21081": {
+    "status": "failed",
+    "policy_url": "https://trmm.gsfc.nasa.gov"
+  },
+  "MSM_21082": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21085": {
+    "status": "success",
+    "policy_url": "https://nstatic.dcinside.com/dc/w/policy/policy_index.html"
+  },
+  "MSM_21088": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21099": {
+    "status": "success",
+    "policy_url": "http://www.daebong19.co.kr/Terms_Conditions.asp"
+  },
+  "MSM_21109": {
+    "status": "success",
+    "policy_url": "https://hanteonews.com"
+  },
+  "MSM_21112": {
+    "status": "failed",
+    "policy_url": "https://www.mcbglobal.pro"
+  },
+  "MSM_21127": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21128": {
+    "status": "success",
+    "policy_url": "https://uicf.kangwon.ac.kr/Term/Private"
+  },
+  "MSM_21129": {
+    "status": "success",
+    "policy_url": "https://www.buskfulfillment.com/terms-of-use"
+  },
+  "MSM_21142": {
+    "status": "success",
+    "policy_url": "https://www.career.co.kr/help/Notice_View.asp?idx=55"
+  },
+  "MSM_21144": {
+    "status": "failed",
+    "policy_url": "https://www.wavemhotel.co.kr"
+  },
+  "MSM_21145": {
+    "status": "success",
+    "policy_url": "http://www.palnet.co.kr"
+  },
+  "MSM_21149": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21150": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21157": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21175": {
+    "status": "success",
+    "policy_url": "https://accounts.hancom.com/policy/terms/current"
+  },
+  "MSM_21180": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21184": {
+    "status": "success",
+    "policy_url": "https://astar.network/privacy-policy"
+  },
+  "MSM_21201": {
+    "status": "success",
+    "policy_url": "https://www.thedrive.co.kr/home/privatepolicy.html"
+  },
+  "MSM_21216": {
+    "status": "success",
+    "policy_url": "https://www.golfjournal.co.kr/com/privacy.html"
+  },
+  "MSM_21217": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21222": {
+    "status": "success",
+    "policy_url": "https://www.harrygnd.co.kr/privacy"
+  },
+  "MSM_21228": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21229": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21239": {
+    "status": "failed",
+    "policy_url": "https://www.jobplanet.co.kr"
+  },
+  "MSM_21257": {
+    "status": "success",
+    "policy_url": "https://planby.us/terms-of-service"
+  },
+  "MSM_21260": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21262": {
+    "status": "success",
+    "policy_url": "https://dawnfield.co.kr/default/member/pri.php"
+  },
+  "MSM_21265": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21266": {
+    "status": "failed",
+    "policy_url": "https://www.latticesemi.com"
+  },
+  "MSM_21273": {
+    "status": "success",
+    "policy_url": "https://www.rovigos.com"
+  },
+  "MSM_21283": {
+    "status": "failed",
+    "policy_url": "https://www.twosome.co.kr"
+  },
+  "MSM_21284": {
+    "status": "success",
+    "policy_url": "https://www.aitimes.com/news/articleView.html?idxno=209673"
+  },
+  "MSM_21292": {
+    "status": "failed",
+    "policy_url": "https://sindyschool.com"
+  },
+  "MSM_21295": {
+    "status": "failed",
+    "policy_url": "https://www.realdraw.ai"
+  },
+  "MSM_21309": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21311": {
+    "status": "failed",
+    "policy_url": "https://ventureinkorea.com"
+  },
+  "MSM_21314": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21315": {
+    "status": "success",
+    "policy_url": "https://bubaum.com"
+  },
+  "MSM_21317": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21318": {
+    "status": "success",
+    "policy_url": "https://www.mysmax.kr"
+  },
+  "MSM_21320": {
+    "status": "success",
+    "policy_url": "https://www.boxladder.co.kr"
+  },
+  "MSM_21321": {
+    "status": "success",
+    "policy_url": "https://monoly.com/policy.html"
+  },
+  "MSM_21324": {
+    "status": "success",
+    "policy_url": "https://bordincoffee.com/member/privacy.html"
+  },
+  "MSM_21334": {
+    "status": "success",
+    "policy_url": "https://www.fnnews.com/userinfo/policy"
+  },
+  "MSM_21336": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21337": {
+    "status": "success",
+    "policy_url": "https://www.kdsn.co.kr/home/page.html?code=policy2"
+  },
+  "MSM_21338": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21339": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21347": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_21350": {
+    "status": "success",
+    "policy_url": "https://bbs.ruliweb.com/etcs/board/300143/read/74933063"
+  },
+  "MSM_21353": {
+    "status": "success",
+    "policy_url": "https://www.dsb21.co.kr/doc/policy"
+  },
+  "MSM_21354": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21356": {
+    "status": "failed",
+    "policy_url": "https://ventureinkorea.com"
+  },
+  "MSM_21364": {
+    "status": "success",
+    "policy_url": "http://www.kmnanews.com/com/privacy.html"
+  },
+  "MSM_21367": {
+    "status": "success",
+    "policy_url": "https://www.lens-me.com/privacy.php"
+  },
+  "MSM_21372": {
+    "status": "success",
+    "policy_url": "https://www.starbucks.co.kr/my/myinfo_modify_login.do"
+  },
+  "MSM_21375": {
+    "status": "success",
+    "policy_url": "https://hks-power.co.kr/member/privacy.html"
+  },
+  "MSM_21379": {
+    "status": "success",
+    "policy_url": "https://www.newswire.co.kr/?xd=35"
+  },
+  "MSM_21388": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21394": {
+    "status": "success",
+    "policy_url": "https://company.segye.com/service/privacyStatement"
+  },
+  "MSM_21404": {
+    "status": "success",
+    "policy_url": "https://www.cberry.co.kr"
+  },
+  "MSM_21420": {
+    "status": "success",
+    "policy_url": "https://www.gametoc.co.kr/com/privacy.html"
+  },
+  "MSM_21422": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21427": {
+    "status": "success",
+    "policy_url": "https://pokemonkorea.co.kr/pokemonhome/menu300?number=4169&mode=view"
+  },
+  "MSM_21429": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21430": {
+    "status": "success",
+    "policy_url": "https://www.wepair.kr"
+  },
+  "MSM_21431": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21432": {
+    "status": "success",
+    "policy_url": "http://www.neonixsystem.com/V2/bbs/content.php?co_id=privacy"
+  },
+  "MSM_21433": {
+    "status": "success",
+    "policy_url": "https://www.wamc.co.kr/bbs/content.php?co_id=esg_policy"
+  },
+  "MSM_21442": {
+    "status": "success",
+    "policy_url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422835"
+  },
+  "MSM_21443": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21448": {
+    "status": "success",
+    "policy_url": "https://spotlite.global"
+  },
+  "MSM_21452": {
+    "status": "success",
+    "policy_url": "https://www.epnc.co.kr/com/privacy.html"
+  },
+  "MSM_21454": {
+    "status": "success",
+    "policy_url": "https://www.cnthoth.com"
+  },
+  "MSM_21457": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21461": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21463": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21470": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21488": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21495": {
+    "status": "success",
+    "policy_url": "https://help.moneypin.biz/e6d993307fd64ca28044d022a61f7715"
+  },
+  "MSM_21501": {
+    "status": "success",
+    "policy_url": "https://www.apti.co.kr/apti/subpage/?menucd=AEAB"
+  },
+  "MSM_21508": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21523": {
+    "status": "success",
+    "policy_url": "https://www.datanet.co.kr/news/articleView.html?idxno=211212"
+  },
+  "MSM_21526": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21528": {
+    "status": "success",
+    "policy_url": "https://www.cluml.com/privacy-policy"
+  },
+  "MSM_21537": {
+    "status": "success",
+    "policy_url": "https://coinness.com/policy/privacy"
+  },
+  "MSM_21538": {
+    "status": "failed",
+    "policy_url": "https://incizor.com"
+  },
+  "MSM_21544": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21547": {
+    "status": "success",
+    "policy_url": "http://i-bms.co.kr"
+  },
+  "MSM_21553": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21559": {
+    "status": "success",
+    "policy_url": "https://www.jupiterlabs.co.kr/terms"
+  },
+  "MSM_21560": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21571": {
+    "status": "success",
+    "policy_url": "http://www.sinet.co.kr"
+  },
+  "MSM_21574": {
+    "status": "success",
+    "policy_url": "https://www.plantym.com/etc/privacy.php"
+  },
+  "MSM_21593": {
+    "status": "success",
+    "policy_url": "https://www.ff14.co.kr/etc/Personal"
+  },
+  "MSM_21594": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21598": {
+    "status": "success",
+    "policy_url": "https://j-company.co.kr/content/privacy"
+  },
+  "MSM_21613": {
+    "status": "success",
+    "policy_url": "https://www.fanruan.com/privacy"
+  },
+  "MSM_21616": {
+    "status": "success",
+    "policy_url": "https://admin.revind.io/admin/agree/terms"
+  },
+  "MSM_21620": {
+    "status": "success",
+    "policy_url": "https://smdtled.co.kr/member/privacy.html"
+  },
+  "MSM_21624": {
+    "status": "success",
+    "policy_url": "https://www.brainmedi-ai.com"
+  },
+  "MSM_21628": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21629": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21631": {
+    "status": "failed",
+    "policy_url": "https://www.magnumbridge.co.kr"
+  },
+  "MSM_21633": {
+    "status": "failed",
+    "policy_url": "https://www.hicare.net"
+  },
+  "MSM_21647": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21654": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21658": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21663": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21664": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21665": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21666": {
+    "status": "failed",
+    "policy_url": "http://www.sujuitc.co.kr"
+  },
+  "MSM_21667": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21674": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21684": {
+    "status": "failed",
+    "policy_url": "https://www.anchornode.io"
+  },
+  "MSM_21685": {
+    "status": "success",
+    "policy_url": "https://www.aks.ac.kr/com/cmm/EgovContentView.do?menuNo=9010110000"
+  },
+  "MSM_21687": {
+    "status": "success",
+    "policy_url": "https://bbs.ruliweb.com/etcs/board/300143/read/74933063"
+  },
+  "MSM_21695": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21700": {
+    "status": "success",
+    "policy_url": "https://polymath.network/privacy-policy"
+  },
+  "MSM_21703": {
+    "status": "success",
+    "policy_url": "https://www.spotvnews.co.kr/com/privacy.html"
+  },
+  "MSM_21707": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21710": {
+    "status": "success",
+    "policy_url": "https://legpill.kr/member/privacy.html"
+  },
+  "MSM_21716": {
+    "status": "success",
+    "policy_url": "https://www.mega-info.co.kr/consulting/5/5-1.php"
+  },
+  "MSM_21721": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21722": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21727": {
+    "status": "success",
+    "policy_url": "https://conyou.co.kr#none"
+  },
+  "MSM_21728": {
+    "status": "success",
+    "policy_url": "https://www.cleverus-ai.com"
+  },
+  "MSM_21734": {
+    "status": "failed",
+    "policy_url": "https://issuu.com"
+  },
+  "MSM_21737": {
+    "status": "success",
+    "policy_url": "https://www.invitobiz.com"
+  },
+  "MSM_21738": {
+    "status": "success",
+    "policy_url": "https://www.yakup.com/terms/terms_sub01.html"
+  },
+  "MSM_21739": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21748": {
+    "status": "success",
+    "policy_url": "https://help.imbc.com/rules/privacy.html"
+  },
+  "MSM_21755": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21758": {
+    "status": "success",
+    "policy_url": "https://www.genesis.com/kr/ko/terms-of-use/terms-conditions/website.html"
+  },
+  "MSM_21761": {
+    "status": "success",
+    "policy_url": "https://livecommercekorea.kr"
+  },
+  "MSM_21768": {
+    "status": "success",
+    "policy_url": "http://www.flowtech21.co.kr/member/privacy.html"
+  },
+  "MSM_21788": {
+    "status": "success",
+    "policy_url": "https://marketbz.com/personal"
+  },
+  "MSM_21791": {
+    "status": "success",
+    "policy_url": "https://www.ff14.co.kr/etc/Personal"
+  },
+  "MSM_21795": {
+    "status": "failed",
+    "policy_url": "https://www.ssfshop.com"
+  },
+  "MSM_21811": {
+    "status": "failed",
+    "policy_url": "https://www.allenslibrary.com"
+  },
+  "MSM_21820": {
+    "status": "success",
+    "policy_url": "https://spiri7.com/terms/policy"
+  },
+  "MSM_21825": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21826": {
+    "status": "success",
+    "policy_url": "https://sts-web.line.games/sts/user/signup/terms?system_lang=ko_KR&redirectUrl=https://gm.floor.line.games/kr/shop"
+  },
+  "MSM_21838": {
+    "status": "success",
+    "policy_url": "http://www.yysoft.kr"
+  },
+  "MSM_21839": {
+    "status": "success",
+    "policy_url": "https://ilum.co.kr/member/privacy.html"
+  },
+  "MSM_21842": {
+    "status": "success",
+    "policy_url": "https://bc-labs.net/kr/product/remote-vehicle-control-solution"
+  },
+  "MSM_21843": {
+    "status": "success",
+    "policy_url": "https://tumsmall.com/member/privacy.html"
+  },
+  "MSM_21846": {
+    "status": "failed",
+    "policy_url": "https://creative-ez.com"
+  },
+  "MSM_21850": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21854": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21856": {
+    "status": "success",
+    "policy_url": "https://super-label.com/terms"
+  },
+  "MSM_21865": {
+    "status": "failed",
+    "policy_url": "https://kingsley.co.kr"
+  },
+  "MSM_21866": {
+    "status": "success",
+    "policy_url": "https://www.siminilbo.co.kr/home/privatepolicy.html"
+  },
+  "MSM_21875": {
+    "status": "success",
+    "policy_url": "https://spectrummap.kr#memberdata"
+  },
+  "MSM_21876": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_21877": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21885": {
+    "status": "failed",
+    "policy_url": "https://ocolabs.co.kr"
+  },
+  "MSM_21901": {
+    "status": "success",
+    "policy_url": "https://rscom.kr"
+  },
+  "MSM_21904": {
+    "status": "success",
+    "policy_url": "https://www.114.co.kr/common/contents/W00015"
+  },
+  "MSM_21910": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21914": {
+    "status": "failed",
+    "policy_url": "https://choiwonjae17464.imweb.me"
+  },
+  "MSM_21918": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21919": {
+    "status": "success",
+    "policy_url": "https://www.masstige.biz/policy/privacy.html"
+  },
+  "MSM_21921": {
+    "status": "failed",
+    "policy_url": "https://wiperth.me"
+  },
+  "MSM_21928": {
+    "status": "failed",
+    "policy_url": "https://www.innoforest.co.kr"
+  },
+  "MSM_21934": {
+    "status": "success",
+    "policy_url": "https://www.taxrobot.co.kr/terms"
+  },
+  "MSM_21935": {
+    "status": "success",
+    "policy_url": "http://www.oky.co.kr"
+  },
+  "MSM_21939": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21944": {
+    "status": "success",
+    "policy_url": "https://drive.google.com/file/d/1BGooIuT6nOz49fmiYLGz13LsXDAsoGAT/view?usp=sharing"
+  },
+  "MSM_21946": {
+    "status": "success",
+    "policy_url": "https://www.gameinsight.co.kr/com/privacy.html"
+  },
+  "MSM_21951": {
+    "status": "success",
+    "policy_url": "https://www.greencar.co.kr"
+  },
+  "MSM_21952": {
+    "status": "success",
+    "policy_url": "https://www.zimssa.com/guide?tab=partnerPolicy"
+  },
+  "MSM_21956": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_21970": {
+    "status": "success",
+    "policy_url": "https://www.stpharm.co.kr/ko/privacy-policy"
+  },
+  "MSM_21978": {
+    "status": "success",
+    "policy_url": "https://www.nike.com/help/a/returns-policy"
+  },
+  "MSM_21979": {
+    "status": "success",
+    "policy_url": "https://www.lunalabs.net"
+  },
+  "MSM_21980": {
+    "status": "success",
+    "policy_url": "https://dalpha.so"
+  },
+  "MSM_21981": {
+    "status": "success",
+    "policy_url": "https://www.koreabaseball.com/Member/Join/Accessterms.aspx"
+  },
+  "MSM_21991": {
+    "status": "success",
+    "policy_url": "https://ecobell.co.kr/sub/privacy.php"
+  },
+  "MSM_21992": {
+    "status": "success",
+    "policy_url": "https://www.news2day.co.kr"
+  },
+  "MSM_21996": {
+    "status": "success",
+    "policy_url": "https://www.iriver.co.kr/front/m/util/terms"
+  },
+  "MSM_21999": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22008": {
+    "status": "failed",
+    "policy_url": "https://www.phoneb.co.kr"
+  },
+  "MSM_22012": {
+    "status": "success",
+    "policy_url": "https://www.petel.co.kr/terms_of_use.html"
+  },
+  "MSM_22013": {
+    "status": "success",
+    "policy_url": "https://www.joongang.co.kr/money/economicpolicy"
+  },
+  "MSM_22020": {
+    "status": "success",
+    "policy_url": "http://www.lots-on.co.kr/resources/privacy.html"
+  },
+  "MSM_22022": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22023": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22026": {
+    "status": "success",
+    "policy_url": "http://mreit.co.kr/member/privacy.php"
+  },
+  "MSM_22030": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22034": {
+    "status": "success",
+    "policy_url": "https://www.sba.seoul.kr/skin/doc.html?fn=하이서울기업_개인정보_처리방침_260211.hwp&rs=/files/sysnapconvert/d0d5faa6-5bb9-ec11-b3f9-d4f5ef4a1e33/result"
+  },
+  "MSM_22040": {
+    "status": "success",
+    "policy_url": "https://peoplekorea.shop/member/privacy.html"
+  },
+  "MSM_22050": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22054": {
+    "status": "success",
+    "policy_url": "https://weseb.com"
+  },
+  "MSM_22058": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22061": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22064": {
+    "status": "success",
+    "policy_url": "https://marketbz.com/personal"
+  },
+  "MSM_22066": {
+    "status": "failed",
+    "policy_url": "https://www.mydaily.co.kr"
+  },
+  "MSM_22069": {
+    "status": "failed",
+    "policy_url": "https://www.dlit.co.kr"
+  },
+  "MSM_22084": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_22085": {
+    "status": "failed",
+    "policy_url": "http://xenod.co.kr"
+  },
+  "MSM_22087": {
+    "status": "success",
+    "policy_url": "https://www.rutec.co.kr/other/privacy.php"
+  },
+  "MSM_22099": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_22102": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22109": {
+    "status": "success",
+    "policy_url": "http://redcong.com/page/privacy.html"
+  },
+  "MSM_22112": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22121": {
+    "status": "success",
+    "policy_url": "https://company.wizards.com/policy"
+  },
+  "MSM_22122": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22124": {
+    "status": "failed",
+    "policy_url": "http://www.markany.com"
+  },
+  "MSM_22137": {
+    "status": "success",
+    "policy_url": "https://linkonbiz.com/agreement/terms"
+  },
+  "MSM_22142": {
+    "status": "success",
+    "policy_url": "https://www.urpai.co.kr/service/usepolicy"
+  },
+  "MSM_22146": {
+    "status": "success",
+    "policy_url": "https://www.newzensolution.co.kr"
+  },
+  "MSM_22153": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22155": {
+    "status": "failed",
+    "policy_url": "https://ttuprivateequity.com"
+  },
+  "MSM_22156": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22157": {
+    "status": "success",
+    "policy_url": "https://www.bworld.co.kr/footer/terms.do?menu_id=F01010000"
+  },
+  "MSM_22164": {
+    "status": "success",
+    "policy_url": "https://www.khgames.co.kr/com/privacy.html"
+  },
+  "MSM_22173": {
+    "status": "success",
+    "policy_url": "https://www.albamon.com/service-center/notice/4790"
+  },
+  "MSM_22175": {
+    "status": "failed",
+    "policy_url": "https://www.innoforest.co.kr"
+  },
+  "MSM_22176": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22183": {
+    "status": "success",
+    "policy_url": "https://www.wiezon.com"
+  },
+  "MSM_22194": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22197": {
+    "status": "success",
+    "policy_url": "https://www.untactedu.co.kr/cs/privacy_terms.php"
+  },
+  "MSM_22200": {
+    "status": "failed",
+    "policy_url": "https://www.platpharm.co.kr"
+  },
+  "MSM_22205": {
+    "status": "success",
+    "policy_url": "http://www.gamejob.co.kr#DevPolicyService"
+  },
+  "MSM_22216": {
+    "status": "failed",
+    "policy_url": "https://tncfoundation.org"
+  },
+  "MSM_22218": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22220": {
+    "status": "success",
+    "policy_url": "http://www.dailyinvest.kr/com/privacy.html"
+  },
+  "MSM_22227": {
+    "status": "failed",
+    "policy_url": "https://ventureinkorea.com"
+  },
+  "MSM_22245": {
+    "status": "success",
+    "policy_url": "https://www.funding4u.co.kr/privacypolicy_normal"
+  },
+  "MSM_22247": {
+    "status": "success",
+    "policy_url": "https://www.txr.kr"
+  },
+  "MSM_22256": {
+    "status": "success",
+    "policy_url": "https://jamjamedu.com"
+  },
+  "MSM_22261": {
+    "status": "success",
+    "policy_url": "https://www.sentv.co.kr/event/view/policy_privacy"
+  },
+  "MSM_22265": {
+    "status": "success",
+    "policy_url": "https://linkareer.com/terms"
+  },
+  "MSM_22267": {
+    "status": "failed",
+    "policy_url": "https://imweb.me"
+  },
+  "MSM_22268": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22287": {
+    "status": "success",
+    "policy_url": "https://loma.co.kr/member/privacy.html"
+  },
+  "MSM_22289": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22292": {
+    "status": "success",
+    "policy_url": "http://www.hyper-automation.co.kr/member/policy.jsp"
+  },
+  "MSM_22293": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22301": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22305": {
+    "status": "failed",
+    "policy_url": null
+  },
+  "MSM_22310": {
+    "status": "success",
+    "policy_url": "http://www.mediatribune.co.kr/com/privacy.html"
+  },
+  "MSM_22313": {
+    "status": "success",
+    "policy_url": "https://www.asiaa.co.kr/com/privacy.html"
+  },
+  "MSM_22314": {
+    "status": "success",
+    "policy_url": "https://www.codelabit.co.kr/front/member/privacy_policy.asp"
+  },
+  "MSM_22315": {
+    "status": "success",
+    "policy_url": "https://www.kdb.co.kr/BZCOWS00N00.act?_mnuid=IHIHCS0072&wcmsPath=%2Fhmp%2Fco%2Fsc%2Fpi%2FCOSCPI0200.html"
+  },
+  "MSM_22319": {
+    "status": "failed",
+    "policy_url": "https://welloffmap.com"
+  },
+  "MSM_22324": {
+    "status": "success",
+    "policy_url": "https://www.skylife.co.kr/center/notice?id=2802"
+  },
+  "MSM_22327": {
+    "status": "success",
+    "policy_url": "https://www.officedepot.co.kr/customer/privatePolicy01.do"
+  },
+  "MSM_22328": {
+    "status": "success",
+    "policy_url": "https://arcticmonkeys.com/privacy-policy"
+  },
+  "MSM_22332": {
+    "status": "success",
+    "policy_url": "https://www.humanizone.co.kr/policy/service"
+  }
+}
