@@ -13,6 +13,9 @@ __pycache__/
 # Data (raw HTML — too large)
 data/raw/html/
 
+# Contains third-party API keys captured from network traffic — redact before committing
+data/interim/trackers.json
+
 # Outputs (runtime logs only)
 outputs/logs/
 
